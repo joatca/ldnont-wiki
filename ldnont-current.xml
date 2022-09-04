@@ -31,17 +31,17 @@
     <ns>0</ns>
     <id>1</id>
     <revision>
-      <id>160</id>
-      <parentid>158</parentid>
-      <timestamp>2022-09-04T20:34:27Z</timestamp>
+      <id>161</id>
+      <parentid>160</parentid>
+      <timestamp>2022-09-04T20:40:00Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>160</origin>
+      <origin>161</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="948" sha1="igpb1v5420xse4e25mvru88wpirtzmq" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]]. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
+      <text bytes="995" sha1="98cb4r3tws27os2l1qh1zcnj6238dak" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
 
 ===Recently changed===
 
@@ -61,7 +61,7 @@
 &lt;/div&gt;
 
 This site is a community effort and is not affiliated with the [https://london.ca City of London].</text>
-      <sha1>igpb1v5420xse4e25mvru88wpirtzmq</sha1>
+      <sha1>98cb4r3tws27os2l1qh1zcnj6238dak</sha1>
     </revision>
   </page>
   <page>
