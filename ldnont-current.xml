@@ -132,38 +132,38 @@ Restaurants that could be classified as "diners" or "family restaurants".
     <ns>10</ns>
     <id>7</id>
     <revision>
-      <id>62</id>
-      <parentid>61</parentid>
-      <timestamp>2022-09-04T02:00:53Z</timestamp>
+      <id>179</id>
+      <parentid>174</parentid>
+      <timestamp>2022-09-05T02:07:33Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>62</origin>
+      <origin>179</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1412" sha1="tn1t41jdh21ahpsjo5wbc8vltnaig86" xml:space="preserve">==Summary==
-; Name
-: {{PAGENAME}}
-{{#if: {{{type|}}}
-| 
-; Type
-: [[:category:{{{type}}}|{{{type}}}]]
+      <text bytes="1598" sha1="6iiyyy7de4av9hp5kb0l7i7e21rh78x" xml:space="preserve">{| class="wikitable" style="float:right; margin: auto; margin-left: 25px"
+&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;td&gt;{{PAGENAME}}&lt;/td&gt;&lt;/tr&gt;
+{{#if: {{{type|}}}|
+&lt;tr&gt;&lt;th&gt;Type&lt;/th&gt;&lt;td&gt;[[:category:{{{type}}}|{{{type}}}]]&lt;/td&gt;&lt;/tr&gt;
 [[category:{{{type}}}]]
 }}
-; Neighbourhood
+&lt;tr&gt;
+&lt;th&gt;Neighbourhood&lt;/th&gt;
 {{#if: {{{neighbourhood }}}
-| : [[:Category:Neighbourhood:{{{neighbourhood}}}|{{{neighbourhood}}}]]
+| &lt;td&gt;[[:Category:Neighbourhood:{{{neighbourhood}}}|{{{neighbourhood}}}]]&lt;/td&gt;
 [[Category:Neighbourhood:{{{neighbourhood}}}]]
-| : unspecified }}
+| &lt;td&gt;unspecified&lt;/td&gt;
+}}
+&lt;/tr&gt;
 {{#if: {{{website|}}} {{{googlemaps|}}} |
-; Links
-: {{#if: {{{website|}}} | [{{{website}}} Website] }} {{#if: {{{googlemaps|}}} | [{{{googlemaps}}} Google Maps] }}
+&lt;tr&gt;&lt;th&gt;Links&lt;/th&gt;&lt;td&gt;{{#if: {{{website|}}} | [{{{website}}} Website] }} {{#if: {{{googlemaps|}}} | [{{{googlemaps}}} Google Maps] }}&lt;/td&gt;&lt;/tr&gt;
 }}
 {{#if: {{{opened|}}} | 
-; Opened
-: {{{opened}}}
+&lt;tr&gt;&lt;th&gt;Opened&lt;/th&gt;&lt;td&gt;{{{opened}}}&lt;/td&gt;&lt;/tr&gt;
 }}
+|-
+|}
 &lt;noinclude&gt;
 &lt;templatedata&gt;
 {
@@ -205,7 +205,7 @@ Restaurants that could be classified as "diners" or "family restaurants".
 }
 &lt;/templatedata&gt;
 &lt;/noinclude&gt;</text>
-      <sha1>tn1t41jdh21ahpsjo5wbc8vltnaig86</sha1>
+      <sha1>6iiyyy7de4av9hp5kb0l7i7e21rh78x</sha1>
     </revision>
   </page>
   <page>
@@ -233,23 +233,23 @@ Restaurants that could be classified as "diners" or "family restaurants".
     <ns>8</ns>
     <id>9</id>
     <revision>
-      <id>159</id>
-      <parentid>98</parentid>
-      <timestamp>2022-09-04T18:42:09Z</timestamp>
+      <id>175</id>
+      <parentid>159</parentid>
+      <timestamp>2022-09-05T01:57:56Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>159</origin>
+      <origin>175</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="154" sha1="rswtivkc00l2xmfvl58b8wowyaujxgm" xml:space="preserve">*navigation
+      <text bytes="156" sha1="4u61dgoeb6d0ovs9n033ltw5tp56rwq" xml:space="preserve">*navigation
 **mainpage|Main Page
-**Special:RecentChanges|Recent changes
+**Special:RecentChanges|Detailed changes
 *Quick Links
 **Contribution Guidelines|How to contribute
 **Other Sites|Other Sites</text>
-      <sha1>rswtivkc00l2xmfvl58b8wowyaujxgm</sha1>
+      <sha1>4u61dgoeb6d0ovs9n033ltw5tp56rwq</sha1>
     </revision>
   </page>
   <page>
@@ -281,6 +281,27 @@ Restaurants that could be classified as "diners" or "family restaurants".
     </revision>
   </page>
   <page>
+    <title>Neighbourhoods</title>
+    <ns>0</ns>
+    <id>12</id>
+    <revision>
+      <id>63</id>
+      <timestamp>2022-09-04T02:15:26Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Click any neighbourhood below to see articles in that neighbourhood.  {{#dpl:titlematch=Neighbourhood:%|namespace=Category|replaceintitle=/^Category:Neighbourhood:/,}}"</comment>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="l0vz0pcr6fzza3q8lsucbu6s00koob0" xml:space="preserve">Click any neighbourhood below to see articles in that neighbourhood.
+
+{{#dpl:titlematch=Neighbourhood:%|namespace=Category|replaceintitle=/^Category:Neighbourhood:/,}}</text>
+      <sha1>l0vz0pcr6fzza3q8lsucbu6s00koob0</sha1>
+    </revision>
+  </page>
+  <page>
     <title>Template:Extension DPL</title>
     <ns>10</ns>
     <id>13</id>
@@ -304,17 +325,17 @@ Restaurants that could be classified as "diners" or "family restaurants".
     <ns>4</ns>
     <id>14</id>
     <revision>
-      <id>157</id>
-      <parentid>155</parentid>
-      <timestamp>2022-09-04T18:36:27Z</timestamp>
+      <id>162</id>
+      <parentid>157</parentid>
+      <timestamp>2022-09-05T01:24:39Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>157</origin>
+      <origin>162</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2813" sha1="2bbf4pwddt8owuxs6ju9327gb9h5c9f" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
+      <text bytes="3086" sha1="qgf5bwxh7ehww8gzjri0xk2q2wwz2yh" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
 
 See Mediawiki's [[mediawikiwiki:Help:Editing_pages|general guidelines]] for help on the "wiki way". For this site in particular, it's sufficient to write very brief descriptions and link to other websites (like we just did with the previous links). In many cases you can use the '''Place''' template and just fill out a form. If you type &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;&lt;/code&gt; in the editor you'll see a pop-up form. Search for and select '''Place'''. Fill in the type (for example, '''Restaurant:Diner''', '''Service:Nail Salon''', or '''Medical:Vet'''), then click '''Add more information''' to add a few more common pieces of info. When you save the page it will be added to the appropriate categories and indexed automatically.
 
@@ -339,8 +360,10 @@ To create a page, edit the URL in your browser to a page name that doesn't exist
 * ...write reviews; link to external reviews instead
 * ...add ''anything'' if you are not comfortable with [[LdnOnt:Copyrights|our copyright policy]]
 
-As an example, see [[Delmar Restaurant]]; in this case neighbourhood was set to '''Argyle''' and type to '''Restaurant:Diner'''. Note how it was automatically added to those categories (on the right on desktop and at the bottom on mobile) and that links to external sites are used. See the [[Neighbourhoods|list of existing neighbourhoods]] and the [[Special:Categories|list of all categories]] if you're not sure what to use.</text>
-      <sha1>2bbf4pwddt8owuxs6ju9327gb9h5c9f</sha1>
+As an example, see [[Delmar Restaurant]]; in this case neighbourhood was set to '''Argyle''' and type to '''Restaurant:Diner'''. Note how it was automatically added to those categories (on the right on desktop and at the bottom on mobile) and that links to external sites are used. See the [[Neighbourhoods|list of existing neighbourhoods]] and the [[Special:Categories|list of all categories]] if you're not sure what to use.
+
+This wiki is automatically backed up every 6 hours to [https://github.com/joatca/ldnont-wiki this Github repository]. In case the server is lost or the current administrator becomes unavailable the files there can be used to recover all pages to a new Mediawiki instance.</text>
+      <sha1>qgf5bwxh7ehww8gzjri0xk2q2wwz2yh</sha1>
     </revision>
   </page>
   <page>
@@ -1051,20 +1074,21 @@ As an example, see [[Delmar Restaurant]]; in this case neighbourhood was set to 
     <ns>0</ns>
     <id>52</id>
     <revision>
-      <id>125</id>
-      <timestamp>2022-09-04T16:51:48Z</timestamp>
+      <id>176</id>
+      <parentid>125</parentid>
+      <timestamp>2022-09-05T02:00:42Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>Created page with "{{Place|type=Store:Liquidation|neighbourhood=Westminster|website=https://www.facebook.com/liquidationmaxbinz|googlemaps=https://goo.gl/maps/zVgBsrbGPT8gC9zK7}}  A large liquidation store with all types of goods."</comment>
-      <origin>125</origin>
+      <comment>fixed website; expand description</comment>
+      <origin>176</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="211" sha1="kxfx6ylea1lmv2kes6ucw527ulqepkp" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Westminster|website=https://www.facebook.com/liquidationmaxbinz|googlemaps=https://goo.gl/maps/zVgBsrbGPT8gC9zK7}}
+      <text bytes="262" sha1="gbh4uxfc5k73yn0qakvl5l7prt9u8v1" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Westminster|website=https://www.liquidationmaxinc.com|googlemaps=https://goo.gl/maps/zVgBsrbGPT8gC9zK7}}
 
-A large liquidation store with all types of goods.</text>
-      <sha1>kxfx6ylea1lmv2kes6ucw527ulqepkp</sha1>
+A large liquidation store with all types of goods, in the standard bin format with prices that reduce each day.</text>
+      <sha1>gbh4uxfc5k73yn0qakvl5l7prt9u8v1</sha1>
     </revision>
   </page>
   <page>
@@ -1176,20 +1200,20 @@ Yardigans is laid out more like a retail store than the typical "bins-style" liq
     <ns>0</ns>
     <id>58</id>
     <revision>
-      <id>132</id>
-      <timestamp>2022-09-04T17:11:02Z</timestamp>
+      <id>171</id>
+      <parentid>132</parentid>
+      <timestamp>2022-09-05T01:53:35Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>Created page with "{{Place|type=Restaurant:Chinese|neighbourhood=Pottersburg|website=http://menuspot.ca/dragongate/Page4/|googlemaps=https://goo.gl/maps/EGgnLeGSNXU7cc5KA}}  Dragon Gate is a classic old North-American-style Chinese restaurant with classic decor to match. Currently does not offer dine-in, only pickup ad delivery."</comment>
-      <origin>132</origin>
+      <origin>171</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="311" sha1="b22wf1u49sf9ruoraisfhfj67o2zlyy" xml:space="preserve">{{Place|type=Restaurant:Chinese|neighbourhood=Pottersburg|website=http://menuspot.ca/dragongate/Page4/|googlemaps=https://goo.gl/maps/EGgnLeGSNXU7cc5KA}}
+      <text bytes="312" sha1="1wcqdc3hx7y6m27rw6je0o453e3qgap" xml:space="preserve">{{Place|type=Restaurant:Chinese|neighbourhood=Pottersburg|website=http://menuspot.ca/dragongate/Page4/|googlemaps=https://goo.gl/maps/EGgnLeGSNXU7cc5KA}}
 
-Dragon Gate is a classic old North-American-style Chinese restaurant with classic decor to match. Currently does not offer dine-in, only pickup ad delivery.</text>
-      <sha1>b22wf1u49sf9ruoraisfhfj67o2zlyy</sha1>
+Dragon Gate is a classic old North-American-style Chinese restaurant with classic decor to match. Currently does not offer dine-in, only pickup and delivery.</text>
+      <sha1>1wcqdc3hx7y6m27rw6je0o453e3qgap</sha1>
     </revision>
   </page>
   <page>
@@ -1237,20 +1261,21 @@ Dragon Gate is a classic old North-American-style Chinese restaurant with classi
     <ns>0</ns>
     <id>61</id>
     <revision>
-      <id>136</id>
-      <timestamp>2022-09-04T17:35:03Z</timestamp>
+      <id>177</id>
+      <parentid>136</parentid>
+      <timestamp>2022-09-05T02:02:47Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>Created page with "{{Place|type=Store:Antique|neighbourhood=Old East Village|website=https://www.facebook.com/pages/Back-to-the-Fuchsia/904215026270634?fref=ts|googlemaps=https://www.google.ca/maps/place/Back+to+the+Fuchsia/@42.9935421,-81.2230858,15.76z/data=!4m5!3m4!1s0x882eed8799ec9cef:0x4327a22d521fbe50!8m2!3d42.9933268!4d-81.2166074}}  Charming antique and retro store."</comment>
-      <origin>136</origin>
+      <minor/>
+      <origin>177</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="357" sha1="rhnqel42m937osh6rfb8aidxh5kpyha" xml:space="preserve">{{Place|type=Store:Antique|neighbourhood=Old East Village|website=https://www.facebook.com/pages/Back-to-the-Fuchsia/904215026270634?fref=ts|googlemaps=https://www.google.ca/maps/place/Back+to+the+Fuchsia/@42.9935421,-81.2230858,15.76z/data=!4m5!3m4!1s0x882eed8799ec9cef:0x4327a22d521fbe50!8m2!3d42.9933268!4d-81.2166074}}
+      <text bytes="359" sha1="4qtmdjiwg5ha6ricutqs37nm1yfjmpd" xml:space="preserve">{{Place|type=Store:Antique|neighbourhood=Old East Village|website=https://www.facebook.com/pages/Back-to-the-Fuchsia/904215026270634?fref=ts|googlemaps=https://www.google.ca/maps/place/Back+to+the+Fuchsia/@42.9935421,-81.2230858,15.76z/data=!4m5!3m4!1s0x882eed8799ec9cef:0x4327a22d521fbe50!8m2!3d42.9933268!4d-81.2166074}}
 
-Charming antique and retro store.</text>
-      <sha1>rhnqel42m937osh6rfb8aidxh5kpyha</sha1>
+Charming antique and vintage store.</text>
+      <sha1>4qtmdjiwg5ha6ricutqs37nm1yfjmpd</sha1>
     </revision>
   </page>
   <page>
@@ -1258,19 +1283,19 @@ Charming antique and retro store.</text>
     <ns>14</ns>
     <id>62</id>
     <revision>
-      <id>146</id>
-      <parentid>137</parentid>
-      <timestamp>2022-09-04T18:21:48Z</timestamp>
+      <id>178</id>
+      <parentid>146</parentid>
+      <timestamp>2022-09-05T02:03:09Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>146</origin>
+      <origin>178</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="54" sha1="b1b6b61pjv3szp0aruaqj6wfdqhcjs7" xml:space="preserve">Antique and retro stores and malls.
+      <text bytes="64" sha1="ov5tsdb8avi89vu1pf1jtktz8i7bopg" xml:space="preserve">Antique, vintage, and retro stores and malls.
 [[Category:Store]]</text>
-      <sha1>b1b6b61pjv3szp0aruaqj6wfdqhcjs7</sha1>
+      <sha1>ov5tsdb8avi89vu1pf1jtktz8i7bopg</sha1>
     </revision>
   </page>
   <page>
