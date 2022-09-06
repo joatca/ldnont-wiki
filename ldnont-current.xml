@@ -2,7 +2,7 @@
   <siteinfo>
     <sitename>London Ontario City Wiki</sitename>
     <dbname>ldnont</dbname>
-    <base>https://ldnont.joat.me/index.php/Main_Page</base>
+    <base>https://ldnont.joat.me/wiki/Main_Page</base>
     <generator>MediaWiki 1.38.2</generator>
     <case>first-letter</case>
     <namespaces>
@@ -325,19 +325,23 @@ Restaurants that could be classified as "diners" or "family restaurants".
     <ns>4</ns>
     <id>14</id>
     <revision>
-      <id>162</id>
-      <parentid>157</parentid>
-      <timestamp>2022-09-05T01:24:39Z</timestamp>
+      <id>190</id>
+      <parentid>182</parentid>
+      <timestamp>2022-09-06T21:22:11Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>162</origin>
+      <origin>190</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3086" sha1="qgf5bwxh7ehww8gzjri0xk2q2wwz2yh" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
+      <text bytes="3219" sha1="lqg8j5vjlea7t96a67l8pjpmbysc4lw" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
 
-See Mediawiki's [[mediawikiwiki:Help:Editing_pages|general guidelines]] for help on the "wiki way". For this site in particular, it's sufficient to write very brief descriptions and link to other websites (like we just did with the previous links). In many cases you can use the '''Place''' template and just fill out a form. If you type &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;&lt;/code&gt; in the editor you'll see a pop-up form. Search for and select '''Place'''. Fill in the type (for example, '''Restaurant:Diner''', '''Service:Nail Salon''', or '''Medical:Vet'''), then click '''Add more information''' to add a few more common pieces of info. When you save the page it will be added to the appropriate categories and indexed automatically.
+See Mediawiki's [[mediawikiwiki:Help:Editing_pages|general guidelines]] for help on the "wiki way". For this site in particular, it's sufficient to write very brief descriptions and link to other websites (like we just did with the previous links).
+
+To add the standard infobox and add the page to indexes automatically, use a template and just fill out a form. If you type &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;&lt;/code&gt; in the editor you'll see a pop-up form. Search for and select either '''Place''' or '''Event''' depending on what you are adding. Fill in the type (for example, '''Restaurant:Diner''', '''Service:Nail Salon''', or '''Airshow'''), then click '''Add more information''' to add a few more common pieces of info. When you save the page it will be added to the appropriate categories and indexed automatically.
+
+Play around with editing in the [[Sandbox]].
 
 To create a page, edit the URL in your browser to a page name that doesn't exist, or enter the name below.
 
@@ -363,7 +367,7 @@ To create a page, edit the URL in your browser to a page name that doesn't exist
 As an example, see [[Delmar Restaurant]]; in this case neighbourhood was set to '''Argyle''' and type to '''Restaurant:Diner'''. Note how it was automatically added to those categories (on the right on desktop and at the bottom on mobile) and that links to external sites are used. See the [[Neighbourhoods|list of existing neighbourhoods]] and the [[Special:Categories|list of all categories]] if you're not sure what to use.
 
 This wiki is automatically backed up every 6 hours to [https://github.com/joatca/ldnont-wiki this Github repository]. In case the server is lost or the current administrator becomes unavailable the files there can be used to recover all pages to a new Mediawiki instance.</text>
-      <sha1>qgf5bwxh7ehww8gzjri0xk2q2wwz2yh</sha1>
+      <sha1>lqg8j5vjlea7t96a67l8pjpmbysc4lw</sha1>
     </revision>
   </page>
   <page>
@@ -1452,6 +1456,194 @@ Charming antique and vintage store.</text>
 
 The link above gives full details but in summary you retain copyright on all content that you create but grant others permission to use it for non-commercial purposes.</text>
       <sha1>bmo16nds5iwq1vcv67buke78jfrvrnh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sandbox</title>
+    <ns>0</ns>
+    <id>71</id>
+    <revision>
+      <id>181</id>
+      <timestamp>2022-09-06T20:51:51Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Edit whatever you like here as a test, but please add categories only temporarily so they don't show up in the indexes.  * This * is * a * bullet * list  # And # this # is # numbered  ==== This is a heading ===="</comment>
+      <origin>181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="kczpibceo0a7spazu52gzc28u09yh6n" xml:space="preserve">Edit whatever you like here as a test, but please add categories only temporarily so they don't show up in the indexes.
+
+* This
+* is
+* a
+* bullet
+* list
+
+# And
+# this
+# is
+# numbered
+
+==== This is a heading ====</text>
+      <sha1>kczpibceo0a7spazu52gzc28u09yh6n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Event</title>
+    <ns>10</ns>
+    <id>72</id>
+    <revision>
+      <id>186</id>
+      <parentid>185</parentid>
+      <timestamp>2022-09-06T21:18:10Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <origin>186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2013" sha1="nktolrbjei5ejpvxxutn6xlfs8hb46f" xml:space="preserve">{| class="wikitable" style="float:right; margin: auto; margin-left: 25px"
+&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;td&gt;{{PAGENAME}}&lt;/td&gt;&lt;/tr&gt;
+{{#if: {{{type|}}}|
+&lt;tr&gt;&lt;th&gt;Type&lt;/th&gt;&lt;td&gt;[[:category:Event:{{{type}}}|{{{type}}}]]&lt;/td&gt;&lt;/tr&gt;
+[[category:Event:{{{type}}}]]
+}}
+{{#if: {{{alttype|}}}|
+&lt;tr&gt;&lt;th&gt;Type&lt;/th&gt;&lt;td&gt;[[:category:Event:{{{alttype}}}|{{{alttype}}}]]&lt;/td&gt;&lt;/tr&gt;
+[[category:Event:{{{alttype}}}]]
+}}
+&lt;tr&gt;
+&lt;th&gt;Location&lt;/th&gt;
+{{#if: {{{location|}}}
+| &lt;td&gt;[[{{{location}}}]]&lt;/td&gt;
+| &lt;td&gt;unspecified&lt;/td&gt;
+}}
+&lt;/tr&gt;
+{{#if: {{{website|}}} |
+&lt;tr&gt;&lt;th&gt;Link&lt;/th&gt;&lt;td&gt;{{#if: {{{website|}}} | [{{{website}}} Website] }}&lt;/td&gt;&lt;/tr&gt;
+}}
+{{#if: {{{startdate|}}} | 
+&lt;tr&gt;&lt;th&gt;Starts&lt;/th&gt;&lt;td&gt;{{{startdate}}}&lt;/td&gt;&lt;/tr&gt;
+}}
+{{#if: {{{enddate|}}} | 
+&lt;tr&gt;&lt;th&gt;Ends&lt;/th&gt;&lt;td&gt;{{{enddate}}}&lt;/td&gt;&lt;/tr&gt;
+}}
+|-
+|}
+&lt;noinclude&gt;
+&lt;templatedata&gt;
+{
+	"params": {
+		"type": {
+			"description": "Type of event (capitalised); Seasonal, Airshow, Market etc. - this becomes an Event: category",
+			"type": "string",
+			"required": true,
+			"label": "Type"
+		},
+		"website": {
+			"description": "Website of the event, if any",
+			"type": "url",
+			"label": "Website"
+		},
+		"location": {
+			"label": "Location",
+			"description": "The name of the wiki page where the event will be held",
+			"example": "Western Fair",
+			"type": "string",
+			"required": true
+		},
+		"startdate": {
+			"label": "Start date",
+			"description": "Date the event starts (no time - that's what the link to the event is for)",
+			"type": "date"
+		},
+		"enddate": {
+			"label": "End Date",
+			"description": "End date of event (same as start date if a single day)",
+			"type": "date"
+		},
+		"alttype": {
+			"label": "Secondary type (if any)",
+			"description": "If the event fits in two categories, add the second here (for example, a Christmas Market could be both Market and Seasonal)",
+			"type": "string"
+		}
+	},
+	"description": "Use this for quick information about a place",
+	"paramOrder": [
+		"type",
+		"alttype",
+		"location",
+		"startdate",
+		"enddate",
+		"website"
+	]
+}
+&lt;/templatedata&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>nktolrbjei5ejpvxxutn6xlfs8hb46f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>London Christmas Craft Show</title>
+    <ns>0</ns>
+    <id>73</id>
+    <revision>
+      <id>187</id>
+      <parentid>184</parentid>
+      <timestamp>2022-09-06T21:18:44Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <origin>187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="353" sha1="78znxia77lm3sev0sxq2gd7rihsb4z8" xml:space="preserve">{{Event|type=Seasonal|alttype=Market|location=Western Fair District Agriplex|startdate=2022-12-01|enddate=2022-12-04|website=https://www.westernfairdistrict.com/events/41st-london-christmas-craft-show}}
+
+This year is the 41st annual Christmas craft show. Entry is not free but it's an opportunity to buy many things that are difficult to find elsewhere.</text>
+      <sha1>78znxia77lm3sev0sxq2gd7rihsb4z8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Event:Seasonal</title>
+    <ns>14</ns>
+    <id>74</id>
+    <revision>
+      <id>188</id>
+      <timestamp>2022-09-06T21:19:58Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "All events that happen only seasonally, for example, skating, Christmas markets, music festivals."</comment>
+      <origin>188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="97" sha1="rhb99qyq7k62hlt1u74c6jpnpmheoqp" xml:space="preserve">All events that happen only seasonally, for example, skating, Christmas markets, music festivals.</text>
+      <sha1>rhb99qyq7k62hlt1u74c6jpnpmheoqp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Event:Market</title>
+    <ns>14</ns>
+    <id>75</id>
+    <revision>
+      <id>189</id>
+      <timestamp>2022-09-06T21:20:57Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Markets that are somewhat temporary or intermittent, for example, craft fairs or weekend markets that occur inside another facility."</comment>
+      <origin>189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="132" sha1="h9fyjf1roceueju77c7moxsz67hfwff" xml:space="preserve">Markets that are somewhat temporary or intermittent, for example, craft fairs or weekend markets that occur inside another facility.</text>
+      <sha1>h9fyjf1roceueju77c7moxsz67hfwff</sha1>
     </revision>
   </page>
 </mediawiki>
