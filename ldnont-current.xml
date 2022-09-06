@@ -2,7 +2,7 @@
   <siteinfo>
     <sitename>London Ontario City Wiki</sitename>
     <dbname>ldnont</dbname>
-    <base>https://ldnont.joat.me/wiki/Main_Page</base>
+    <base>https://ldnont.info/wiki/Main_Page</base>
     <generator>MediaWiki 1.38.2</generator>
     <case>first-letter</case>
     <namespaces>
@@ -325,21 +325,21 @@ Restaurants that could be classified as "diners" or "family restaurants".
     <ns>4</ns>
     <id>14</id>
     <revision>
-      <id>190</id>
-      <parentid>182</parentid>
-      <timestamp>2022-09-06T21:22:11Z</timestamp>
+      <id>191</id>
+      <parentid>190</parentid>
+      <timestamp>2022-09-06T22:29:48Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>190</origin>
+      <origin>191</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3219" sha1="lqg8j5vjlea7t96a67l8pjpmbysc4lw" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
+      <text bytes="3262" sha1="dp351p160yitolcg1wozg9s25na9vl9" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
 
 See Mediawiki's [[mediawikiwiki:Help:Editing_pages|general guidelines]] for help on the "wiki way". For this site in particular, it's sufficient to write very brief descriptions and link to other websites (like we just did with the previous links).
 
-To add the standard infobox and add the page to indexes automatically, use a template and just fill out a form. If you type &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;&lt;/code&gt; in the editor you'll see a pop-up form. Search for and select either '''Place''' or '''Event''' depending on what you are adding. Fill in the type (for example, '''Restaurant:Diner''', '''Service:Nail Salon''', or '''Airshow'''), then click '''Add more information''' to add a few more common pieces of info. When you save the page it will be added to the appropriate categories and indexed automatically.
+To add the standard infobox and add the page to indexes automatically, use a template and just fill out a form. If you type &lt;code&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;&lt;/code&gt; in the editor you'll see a pop-up form. Search for and select either '''Place''' or '''Event''' depending on what you are adding. Fill in the type (for example, '''Restaurant:Diner''' or '''Service:Nail Salon''' for a place, or '''Airshow''' or '''Market''' for an event), then click '''Add more information''' to add a few more common pieces of info. When you save the page it will be added to the appropriate categories and indexed automatically.
 
 Play around with editing in the [[Sandbox]].
 
@@ -367,7 +367,7 @@ To create a page, edit the URL in your browser to a page name that doesn't exist
 As an example, see [[Delmar Restaurant]]; in this case neighbourhood was set to '''Argyle''' and type to '''Restaurant:Diner'''. Note how it was automatically added to those categories (on the right on desktop and at the bottom on mobile) and that links to external sites are used. See the [[Neighbourhoods|list of existing neighbourhoods]] and the [[Special:Categories|list of all categories]] if you're not sure what to use.
 
 This wiki is automatically backed up every 6 hours to [https://github.com/joatca/ldnont-wiki this Github repository]. In case the server is lost or the current administrator becomes unavailable the files there can be used to recover all pages to a new Mediawiki instance.</text>
-      <sha1>lqg8j5vjlea7t96a67l8pjpmbysc4lw</sha1>
+      <sha1>dp351p160yitolcg1wozg9s25na9vl9</sha1>
     </revision>
   </page>
   <page>
@@ -1246,18 +1246,18 @@ Dragon Gate is a classic old North-American-style Chinese restaurant with classi
     <ns>0</ns>
     <id>60</id>
     <revision>
-      <id>134</id>
-      <timestamp>2022-09-04T17:16:03Z</timestamp>
+      <id>192</id>
+      <parentid>134</parentid>
+      <timestamp>2022-09-06T22:41:34Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>Created page with "This is a dummy page; for now just ask me on Reddit."</comment>
-      <origin>134</origin>
+      <origin>192</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="52" sha1="8w3ysn4nrsn1izen87l9hagr3jz3s85" xml:space="preserve">This is a dummy page; for now just ask me on Reddit.</text>
-      <sha1>8w3ysn4nrsn1izen87l9hagr3jz3s85</sha1>
+      <text bytes="74" sha1="g7wff5hevh13o0nfbp7mnhk7mfwaus0" xml:space="preserve">Email [mailto:accounts@ldnont.info accounts@ldnont.info] or ask on Reddit.</text>
+      <sha1>g7wff5hevh13o0nfbp7mnhk7mfwaus0</sha1>
     </revision>
   </page>
   <page>
@@ -1644,6 +1644,66 @@ This year is the 41st annual Christmas craft show. Entry is not free but it's an
       <format>text/x-wiki</format>
       <text bytes="132" sha1="h9fyjf1roceueju77c7moxsz67hfwff" xml:space="preserve">Markets that are somewhat temporary or intermittent, for example, craft fairs or weekend markets that occur inside another facility.</text>
       <sha1>h9fyjf1roceueju77c7moxsz67hfwff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Western Fair District Agriplex</title>
+    <ns>0</ns>
+    <id>76</id>
+    <revision>
+      <id>193</id>
+      <timestamp>2022-09-06T22:52:09Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{Place|type=Venue:Exhibitions|neighbourhood=Old East Village|website=https://www.westernfairdistrict.com/locations/western-fair-district-agriplex|googlemaps=https://goo.gl/maps/J8ydT6BECRA8oCbe7}}  A large indoor and outdoor exhibition facility."</comment>
+      <origin>193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="246" sha1="eqszgnsr12kf3icymgfvkez1y2ospnn" xml:space="preserve">{{Place|type=Venue:Exhibitions|neighbourhood=Old East Village|website=https://www.westernfairdistrict.com/locations/western-fair-district-agriplex|googlemaps=https://goo.gl/maps/J8ydT6BECRA8oCbe7}}
+
+A large indoor and outdoor exhibition facility.</text>
+      <sha1>eqszgnsr12kf3icymgfvkez1y2ospnn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Venue:Exhibitions</title>
+    <ns>14</ns>
+    <id>77</id>
+    <revision>
+      <id>195</id>
+      <parentid>194</parentid>
+      <timestamp>2022-09-06T22:52:50Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <origin>195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="e3r05plr8rz9i3f76zob2g9f9l5qjbr" xml:space="preserve">Venues for exhibitions and shows.
+[[category:Venue]]</text>
+      <sha1>e3r05plr8rz9i3f76zob2g9f9l5qjbr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Venue</title>
+    <ns>14</ns>
+    <id>78</id>
+    <revision>
+      <id>196</id>
+      <timestamp>2022-09-06T22:53:25Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Venues for hosting events of all kinds."</comment>
+      <origin>196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" sha1="rg4fn6sczwit0n7a6b74k5wpi7xbdrj" xml:space="preserve">Venues for hosting events of all kinds.</text>
+      <sha1>rg4fn6sczwit0n7a6b74k5wpi7xbdrj</sha1>
     </revision>
   </page>
 </mediawiki>

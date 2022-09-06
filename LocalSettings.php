@@ -32,7 +32,7 @@ $wgArticlePath = "/wiki/$1";
 $wgUsePathInfo = true;
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "https://ldnont.joat.me";
+$wgServer = "https://ldnont.info";
 
 ## The URL path to static resources (images, scripts, etc.)
 $wgResourceBasePath = $wgScriptPath;
@@ -51,8 +51,8 @@ $wgLogos = [
 $wgEnableEmail = true;
 $wgEnableUserEmail = true; # UPO
 
-$wgEmergencyContact = "ldnont@joat.me";
-$wgPasswordSender = "ldnont@joat.me";
+$wgEmergencyContact = "accounts@ldnont.info";
+$wgPasswordSender = "accounts@ldnont.info";
 
 $wgEnotifUserTalk = true; # UPO
 $wgEnotifWatchlist = true; # UPO
