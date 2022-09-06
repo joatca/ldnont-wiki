@@ -1096,22 +1096,22 @@ A large liquidation store with all types of goods, in the standard bin format wi
     <ns>0</ns>
     <id>53</id>
     <revision>
-      <id>126</id>
-      <timestamp>2022-09-04T16:57:02Z</timestamp>
+      <id>180</id>
+      <parentid>126</parentid>
+      <timestamp>2022-09-06T00:02:55Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>Created page with "{{Place|type=Store:Liquidation|neighbourhood=Proudfoot|website=http://masterliquidation.ca/|googlemaps=https://goo.gl/maps/3onGk1b18bY9vsQC9}}  A smaller liquidation store specialising in electronics.  [[Category:Store:Electronics]]"</comment>
-      <origin>126</origin>
+      <origin>180</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="232" sha1="rk4adxwvz1suzqbhpgp9vhmbpu5trz9" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Proudfoot|website=http://masterliquidation.ca/|googlemaps=https://goo.gl/maps/3onGk1b18bY9vsQC9}}
+      <text bytes="341" sha1="emsmm7qoq6lg1h7azi8hdeco8v7pmtt" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Proudfoot|website=http://masterliquidation.ca/|googlemaps=https://goo.gl/maps/3onGk1b18bY9vsQC9}}
 
-A smaller liquidation store specialising in electronics.
+A smaller liquidation store specialising in electronics. Mostly bins, but prices are the same every day rather than being refilled each week and decreasing each day.
 
 [[Category:Store:Electronics]]</text>
-      <sha1>rk4adxwvz1suzqbhpgp9vhmbpu5trz9</sha1>
+      <sha1>emsmm7qoq6lg1h7azi8hdeco8v7pmtt</sha1>
     </revision>
   </page>
   <page>
