@@ -31,17 +31,18 @@
     <ns>0</ns>
     <id>1</id>
     <revision>
-      <id>161</id>
-      <parentid>160</parentid>
-      <timestamp>2022-09-04T20:40:00Z</timestamp>
+      <id>202</id>
+      <parentid>201</parentid>
+      <timestamp>2022-09-07T01:35:13Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>161</origin>
+      <comment>/* Browse all pages */</comment>
+      <origin>202</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="995" sha1="98cb4r3tws27os2l1qh1zcnj6238dak" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
+      <text bytes="1049" sha1="ju94thf5vfz2uval4vwkuzrdr4jnp1y" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
 
 ===Recently changed===
 
@@ -58,10 +59,10 @@
 ===Browse by neighborhood===
 &lt;div style="-webkit-column-count:3;column-count:3;"&gt;
 {{#dpl:titlematch=Neighbourhood:%|columns=3|namespace=Category|replaceintitle=/^Category:Neighbourhood:/,}}
-&lt;/div&gt;
+&lt;/div&gt;Or, browse the [[Special:AllPages|list of all pages]].
 
 This site is a community effort and is not affiliated with the [https://london.ca City of London].</text>
-      <sha1>98cb4r3tws27os2l1qh1zcnj6238dak</sha1>
+      <sha1>ju94thf5vfz2uval4vwkuzrdr4jnp1y</sha1>
     </revision>
   </page>
   <page>
@@ -1161,22 +1162,20 @@ A smaller liquidation store specialising in electronics. Mostly bins, but prices
     <ns>0</ns>
     <id>56</id>
     <revision>
-      <id>130</id>
-      <parentid>129</parentid>
-      <timestamp>2022-09-04T17:07:37Z</timestamp>
+      <id>200</id>
+      <parentid>130</parentid>
+      <timestamp>2022-09-07T01:31:29Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <minor/>
-      <comment>Unsound moved page [[Yardigans]] to [[Yardigans Estate Liquidation Services]]</comment>
-      <origin>129</origin>
+      <origin>200</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="391" sha1="syfy0oyn9e332z8fkc43ctrqdqullqx" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Pottersburg|website=http://www.yardigans.ca/|googlemaps=https://www.google.ca/maps/place/Yardigans+Estate+Liquidation+Services/@42.9852299,-81.1989961,17z/data=!3m1!4b1!4m5!3m4!1s0x882ef284b30d57a9:0xc0b25eaec21e7423!8m2!3d42.9852299!4d-81.1968074}}
+      <text bytes="540" sha1="6pksdkl7awj7w2w0jhyfwz84il2qqc0" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Pottersburg|website=http://www.yardigans.ca/|googlemaps=https://www.google.ca/maps/place/Yardigans+Estate+Liquidation+Services/@42.9852299,-81.1989961,17z/data=!3m1!4b1!4m5!3m4!1s0x882ef284b30d57a9:0xc0b25eaec21e7423!8m2!3d42.9852299!4d-81.1968074}}
 
-Yardigans is laid out more like a retail store than the typical "bins-style" liquidation store.</text>
-      <sha1>syfy0oyn9e332z8fkc43ctrqdqullqx</sha1>
+Yardigans is laid out more like a retail store than the typical "bins-style" liquidation store. Products are "curated" better but prices are correspondingly higher. Cash only (no cards, debit or credit) although there is a high-fee ATM on-site.</text>
+      <sha1>6pksdkl7awj7w2w0jhyfwz84il2qqc0</sha1>
     </revision>
   </page>
   <page>
@@ -1704,6 +1703,67 @@ A large indoor and outdoor exhibition facility.</text>
       <format>text/x-wiki</format>
       <text bytes="39" sha1="rg4fn6sczwit0n7a6b74k5wpi7xbdrj" xml:space="preserve">Venues for hosting events of all kinds.</text>
       <sha1>rg4fn6sczwit0n7a6b74k5wpi7xbdrj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cobbletog Antique Market</title>
+    <ns>0</ns>
+    <id>79</id>
+    <revision>
+      <id>197</id>
+      <timestamp>2022-09-07T01:14:38Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{Place|type=Store:Antique|neighbourhood=White Oaks|website=https://www.facebook.com/CobbletogAntiqueMarket|googlemaps=https://goo.gl/maps/j8yKbRAghqgQDV486}}  A large antique and vintage store with many dealers under one roof."</comment>
+      <origin>197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="nqhz6zf51twyce7t8rihel0ohb6ic1d" xml:space="preserve">{{Place|type=Store:Antique|neighbourhood=White Oaks|website=https://www.facebook.com/CobbletogAntiqueMarket|googlemaps=https://goo.gl/maps/j8yKbRAghqgQDV486}}
+
+A large antique and vintage store with many dealers under one roof.</text>
+      <sha1>nqhz6zf51twyce7t8rihel0ohb6ic1d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Neighbourhood:White Oaks</title>
+    <ns>14</ns>
+    <id>80</id>
+    <revision>
+      <id>198</id>
+      <timestamp>2022-09-07T01:16:38Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/white-oaks Whiteoaks] is the neighbourhood in south London that contains [https://www.whiteoaksmall.ca White Oaks Mall]."</comment>
+      <origin>198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="171" sha1="m5qf8qzjz3bms3o4fgd6k0qlzn3wzyn" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/white-oaks Whiteoaks] is the neighbourhood in south London that contains [https://www.whiteoaksmall.ca White Oaks Mall].</text>
+      <sha1>m5qf8qzjz3bms3o4fgd6k0qlzn3wzyn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Memory Lane Antiques</title>
+    <ns>0</ns>
+    <id>81</id>
+    <revision>
+      <id>199</id>
+      <timestamp>2022-09-07T01:22:02Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{Place|type=Store:Antique|neighbourhood=Hyde Park|website=https://memorylaneantiques.company.site|googlemaps=https://goo.gl/maps/2NzQu16315nbWYqq9}}  A large antique and vintage store with many vendors under one roof."</comment>
+      <origin>199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="0s8wzmmvo6r0gava5jqycg0cjxrvksf" xml:space="preserve">{{Place|type=Store:Antique|neighbourhood=Hyde Park|website=https://memorylaneantiques.company.site|googlemaps=https://goo.gl/maps/2NzQu16315nbWYqq9}}
+
+A large antique and vintage store with many vendors under one roof.</text>
+      <sha1>0s8wzmmvo6r0gava5jqycg0cjxrvksf</sha1>
     </revision>
   </page>
 </mediawiki>
