@@ -31,23 +31,23 @@
     <ns>0</ns>
     <id>1</id>
     <revision>
-      <id>202</id>
-      <parentid>201</parentid>
-      <timestamp>2022-09-07T01:35:13Z</timestamp>
+      <id>207</id>
+      <parentid>206</parentid>
+      <timestamp>2022-09-07T15:38:45Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>/* Browse all pages */</comment>
-      <origin>202</origin>
+      <comment>/* Recently updated */</comment>
+      <origin>207</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1049" sha1="ju94thf5vfz2uval4vwkuzrdr4jnp1y" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
+      <text bytes="1071" sha1="ocl9aypxh4hf6uwys92hwbyyiowrf12" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
 
-===Recently changed===
+===Recently updated===
 
 &lt;div style="-webkit-column-count:3;column-count:3;"&gt;
-{{#dpl:notnamespace=Category|notnamespace=Mediawiki|notnamespace=Template|columns=3|count=12|ordermethod=lastedit|order=descending}}
+{{#dpl:notnamespace=Category|notnamespace=Mediawiki|notnamespace=Template|nottitlematch=Sandbox|columns=3|count=12|ordermethod=lastedit|order=descending}}
 &lt;/div&gt;
 
 ===Browse by main category===
@@ -62,7 +62,7 @@
 &lt;/div&gt;Or, browse the [[Special:AllPages|list of all pages]].
 
 This site is a community effort and is not affiliated with the [https://london.ca City of London].</text>
-      <sha1>ju94thf5vfz2uval4vwkuzrdr4jnp1y</sha1>
+      <sha1>ocl9aypxh4hf6uwys92hwbyyiowrf12</sha1>
     </revision>
   </page>
   <page>
@@ -258,17 +258,17 @@ Restaurants that could be classified as "diners" or "family restaurants".
     <ns>0</ns>
     <id>10</id>
     <revision>
-      <id>74</id>
-      <parentid>70</parentid>
-      <timestamp>2022-09-04T12:32:31Z</timestamp>
+      <id>203</id>
+      <parentid>74</parentid>
+      <timestamp>2022-09-07T13:20:58Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>74</origin>
+      <origin>203</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="541" sha1="h67x5zcfn5ovpg3sz1uve5dx522tw0g" xml:space="preserve">Some other sites with information about London
+      <text bytes="615" sha1="lzlsa49jueoyg0b51jj50wts5c16qz6" xml:space="preserve">Some other sites with information about London
 
 * General Information
 ** [[wikipedia:London,_Ontario|Wikipedia entry]]
@@ -277,8 +277,10 @@ Restaurants that could be classified as "diners" or "family restaurants".
 * City of London
 ** [https://london.ca City of London] municipal website
 ** [https://www.neighbourgoodlondon.ca/ NeighbourGood] a community organizing site run by the City of London
-** [https://london.maps.arcgis.com/apps/webappviewer/index.html?id=0187f8a72f204edcbc95d595f31b5117 Official city map]</text>
-      <sha1>h67x5zcfn5ovpg3sz1uve5dx522tw0g</sha1>
+** [https://london.maps.arcgis.com/apps/webappviewer/index.html?id=0187f8a72f204edcbc95d595f31b5117 Official city map]
+* Others
+** [https://www.reddit.com/r/londonontario/ Subreddit] on Reddit</text>
+      <sha1>lzlsa49jueoyg0b51jj50wts5c16qz6</sha1>
     </revision>
   </page>
   <page>
@@ -1245,18 +1247,18 @@ Dragon Gate is a classic old North-American-style Chinese restaurant with classi
     <ns>0</ns>
     <id>60</id>
     <revision>
-      <id>192</id>
-      <parentid>134</parentid>
-      <timestamp>2022-09-06T22:41:34Z</timestamp>
+      <id>205</id>
+      <parentid>192</parentid>
+      <timestamp>2022-09-07T13:55:15Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>192</origin>
+      <origin>205</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="74" sha1="g7wff5hevh13o0nfbp7mnhk7mfwaus0" xml:space="preserve">Email [mailto:accounts@ldnont.info accounts@ldnont.info] or ask on Reddit.</text>
-      <sha1>g7wff5hevh13o0nfbp7mnhk7mfwaus0</sha1>
+      <text bytes="162" sha1="hleqpmz8xh4korizb8dm4rxsgf6meba" xml:space="preserve">Email [mailto:accounts@ldnont.info accounts@ldnont.info] or ask on Reddit, and give an email address (where the password can be sent) and your preferred username.</text>
+      <sha1>hleqpmz8xh4korizb8dm4rxsgf6meba</sha1>
     </revision>
   </page>
   <page>
@@ -1764,6 +1766,69 @@ A large antique and vintage store with many dealers under one roof.</text>
 
 A large antique and vintage store with many vendors under one roof.</text>
       <sha1>0s8wzmmvo6r0gava5jqycg0cjxrvksf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kimchi House</title>
+    <ns>0</ns>
+    <id>82</id>
+    <revision>
+      <id>210</id>
+      <parentid>208</parentid>
+      <timestamp>2022-09-07T15:46:21Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <origin>210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="272" sha1="i0z8k03b9egd2nd22wtso42zq7fr8jo" xml:space="preserve">{{Place|type=Restaurant:Korean|neighbourhood=Proudfoot|googlemaps=https://goo.gl/maps/UZSSjoWnHSMtyR738}}
+
+A small, privately-owned Korean restaurant which also offers some Japanese dishes, and which my spouse considers the best in London.
+[[Category:Restaurant:Japanese]]</text>
+      <sha1>i0z8k03b9egd2nd22wtso42zq7fr8jo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Restaurant:Korean</title>
+    <ns>14</ns>
+    <id>83</id>
+    <revision>
+      <id>209</id>
+      <timestamp>2022-09-07T15:44:27Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Korean-style restaurants, which often also offer Japanese-style food.  [[category:Restaurant:Asian]]"</comment>
+      <origin>209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100" sha1="oqokv9zuh1630gysxotm8fta2rmtipf" xml:space="preserve">Korean-style restaurants, which often also offer Japanese-style food.
+
+[[category:Restaurant:Asian]]</text>
+      <sha1>oqokv9zuh1630gysxotm8fta2rmtipf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Restaurant:Japanese</title>
+    <ns>14</ns>
+    <id>84</id>
+    <revision>
+      <id>211</id>
+      <timestamp>2022-09-07T15:46:59Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Restaurants offering Japanese dishes. [[Category:Restaurant:Asian]]"</comment>
+      <origin>211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="67" sha1="mvd8wga3tgazqr69t8mm8gk40r8qq3y" xml:space="preserve">Restaurants offering Japanese dishes.
+[[Category:Restaurant:Asian]]</text>
+      <sha1>mvd8wga3tgazqr69t8mm8gk40r8qq3y</sha1>
     </revision>
   </page>
 </mediawiki>
