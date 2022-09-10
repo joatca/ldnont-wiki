@@ -31,15 +31,14 @@
     <ns>0</ns>
     <id>1</id>
     <revision>
-      <id>207</id>
-      <parentid>206</parentid>
-      <timestamp>2022-09-07T15:38:45Z</timestamp>
+      <id>218</id>
+      <parentid>212</parentid>
+      <timestamp>2022-09-10T00:42:06Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>/* Recently updated */</comment>
-      <origin>207</origin>
+      <origin>218</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1071" sha1="ocl9aypxh4hf6uwys92hwbyyiowrf12" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
@@ -1829,6 +1828,93 @@ A small, privately-owned Korean restaurant which also offers some Japanese dishe
       <text bytes="67" sha1="mvd8wga3tgazqr69t8mm8gk40r8qq3y" xml:space="preserve">Restaurants offering Japanese dishes.
 [[Category:Restaurant:Asian]]</text>
       <sha1>mvd8wga3tgazqr69t8mm8gk40r8qq3y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Plant Matter Kitchen</title>
+    <ns>0</ns>
+    <id>85</id>
+    <revision>
+      <id>214</id>
+      <parentid>213</parentid>
+      <timestamp>2022-09-10T00:11:20Z</timestamp>
+      <contributor>
+        <username>AbaloneSandwich</username>
+        <id>4</id>
+      </contributor>
+      <origin>214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="121" sha1="izmv6wif2qc89gqbafietrzww3s8klz" xml:space="preserve">Local organic vegan restaurant offering Dine-In or Curbside Pickup. 
+
+Located at 162 Wortley Road
+
+plantmatterkitchen.com</text>
+      <sha1>izmv6wif2qc89gqbafietrzww3s8klz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>La Noisette Bakery</title>
+    <ns>0</ns>
+    <id>86</id>
+    <revision>
+      <id>215</id>
+      <timestamp>2022-09-10T00:16:27Z</timestamp>
+      <contributor>
+        <username>AbaloneSandwich</username>
+        <id>4</id>
+      </contributor>
+      <comment>Created page with "Bakery in London, Ontario located at 900 Oxford Street East   lanoisettebakery.com [[Category:Bakery]]"</comment>
+      <origin>215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="jrmoyeusq66x6s3ghs8r7rhw47ndics" xml:space="preserve">Bakery in London, Ontario located at 900 Oxford Street East 
+
+lanoisettebakery.com
+[[Category:Bakery]]</text>
+      <sha1>jrmoyeusq66x6s3ghs8r7rhw47ndics</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Budweiser Gardens</title>
+    <ns>0</ns>
+    <id>87</id>
+    <revision>
+      <id>216</id>
+      <timestamp>2022-09-10T00:22:08Z</timestamp>
+      <contributor>
+        <username>AbaloneSandwich</username>
+        <id>4</id>
+      </contributor>
+      <comment>Created page with "Located at 99 Dundas Street East and originally opened as the John Labatt Centre in 2012. This is a sports-entertainment centre which is home of the London Knights and the London Lightning. The capacity is 9,100.   Budweiser Gardens hosts events such as concerts, performances, sport events, charity events, and more. [[Category:Venue]]"</comment>
+      <origin>216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="336" sha1="aavhnlqjjnllonjnja4p8esg4dh6g5j" xml:space="preserve">Located at 99 Dundas Street East and originally opened as the John Labatt Centre in 2012. This is a sports-entertainment centre which is home of the London Knights and the London Lightning. The capacity is 9,100. 
+
+Budweiser Gardens hosts events such as concerts, performances, sport events, charity events, and more.
+[[Category:Venue]]</text>
+      <sha1>aavhnlqjjnllonjnja4p8esg4dh6g5j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Laurie's Cookies</title>
+    <ns>0</ns>
+    <id>88</id>
+    <revision>
+      <id>217</id>
+      <timestamp>2022-09-10T00:27:11Z</timestamp>
+      <contributor>
+        <username>AbaloneSandwich</username>
+        <id>4</id>
+      </contributor>
+      <comment>Created page with "Cookie shop in the Carling Heights neighbourhood located at 996 Oxford Street East selling decorated sugar cookies, macarons, stuffed cookies and cookie sandwiches. Accepts custom orders.  [[Category:Bakery]]"</comment>
+      <origin>217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="8zfuwe7ee33j42qh04qq2l8t70kbswt" xml:space="preserve">Cookie shop in the Carling Heights neighbourhood located at 996 Oxford Street East selling decorated sugar cookies, macarons, stuffed cookies and cookie sandwiches. Accepts custom orders. 
+[[Category:Bakery]]</text>
+      <sha1>8zfuwe7ee33j42qh04qq2l8t70kbswt</sha1>
     </revision>
   </page>
 </mediawiki>
