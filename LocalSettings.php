@@ -188,7 +188,7 @@ wfLoadExtension( 'InputBox' );
 wfLoadExtension( 'Nuke' );
 wfLoadExtension( 'Renameuser' );
 wfLoadExtension( 'ReplaceText' );
-wfLoadExtension( 'SpamBlacklist' );
+# wfLoadExtension( 'SpamBlacklist' );
 wfLoadExtension( 'TemplateData' );
 wfLoadExtension( 'TitleBlacklist' );
 wfLoadExtension( 'VisualEditor' );

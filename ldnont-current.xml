@@ -1858,21 +1858,21 @@ plantmatterkitchen.com</text>
     <ns>0</ns>
     <id>86</id>
     <revision>
-      <id>215</id>
-      <timestamp>2022-09-10T00:16:27Z</timestamp>
+      <id>225</id>
+      <parentid>215</parentid>
+      <timestamp>2022-09-11T15:26:24Z</timestamp>
       <contributor>
-        <username>AbaloneSandwich</username>
-        <id>4</id>
+        <username>Unsound</username>
+        <id>1</id>
       </contributor>
-      <comment>Created page with "Bakery in London, Ontario located at 900 Oxford Street East   lanoisettebakery.com [[Category:Bakery]]"</comment>
-      <origin>215</origin>
+      <origin>225</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="102" sha1="jrmoyeusq66x6s3ghs8r7rhw47ndics" xml:space="preserve">Bakery in London, Ontario located at 900 Oxford Street East 
+      <text bytes="108" sha1="56biprloipqgdxomlnn5059jplaeigb" xml:space="preserve">Bakery in London, Ontario located at 900 Oxford Street East 
 
 lanoisettebakery.com
-[[Category:Bakery]]</text>
-      <sha1>jrmoyeusq66x6s3ghs8r7rhw47ndics</sha1>
+[[Category:Store:Bakery]]</text>
+      <sha1>56biprloipqgdxomlnn5059jplaeigb</sha1>
     </revision>
   </page>
   <page>
@@ -1902,19 +1902,200 @@ Budweiser Gardens hosts events such as concerts, performances, sport events, cha
     <ns>0</ns>
     <id>88</id>
     <revision>
-      <id>217</id>
-      <timestamp>2022-09-10T00:27:11Z</timestamp>
+      <id>226</id>
+      <parentid>217</parentid>
+      <timestamp>2022-09-11T15:26:35Z</timestamp>
       <contributor>
-        <username>AbaloneSandwich</username>
-        <id>4</id>
+        <username>Unsound</username>
+        <id>1</id>
       </contributor>
-      <comment>Created page with "Cookie shop in the Carling Heights neighbourhood located at 996 Oxford Street East selling decorated sugar cookies, macarons, stuffed cookies and cookie sandwiches. Accepts custom orders.  [[Category:Bakery]]"</comment>
-      <origin>217</origin>
+      <origin>226</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="208" sha1="8zfuwe7ee33j42qh04qq2l8t70kbswt" xml:space="preserve">Cookie shop in the Carling Heights neighbourhood located at 996 Oxford Street East selling decorated sugar cookies, macarons, stuffed cookies and cookie sandwiches. Accepts custom orders. 
-[[Category:Bakery]]</text>
-      <sha1>8zfuwe7ee33j42qh04qq2l8t70kbswt</sha1>
+      <text bytes="214" sha1="nkxcfaho79ai87lhw0exckms232sqq8" xml:space="preserve">Cookie shop in the Carling Heights neighbourhood located at 996 Oxford Street East selling decorated sugar cookies, macarons, stuffed cookies and cookie sandwiches. Accepts custom orders. 
+[[Category:Store:Bakery]]</text>
+      <sha1>nkxcfaho79ai87lhw0exckms232sqq8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Apple Land Station</title>
+    <ns>0</ns>
+    <id>89</id>
+    <revision>
+      <id>228</id>
+      <parentid>219</parentid>
+      <timestamp>2022-09-11T15:41:20Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <origin>228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="2vj59m81dqxfj308gxwnuq3ws6ltiah" xml:space="preserve">{{Place|type=Farm|neighbourhood=Surrounds|website=https://www.applelandstation.com|googlemaps=https://goo.gl/maps/BnHaF9LvAc2SvsjK8}}
+
+Offers pick-your-own apples, a bakery and a farm store.
+[[Category:Activity:Fruit Picking]]
+[[Category:Store:Bakery]]
+[[Category:Store:Farm]]</text>
+      <sha1>2vj59m81dqxfj308gxwnuq3ws6ltiah</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Farm</title>
+    <ns>14</ns>
+    <id>90</id>
+    <revision>
+      <id>220</id>
+      <timestamp>2022-09-11T15:20:28Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Farms or orchards that offer public activities."</comment>
+      <origin>220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="i0swr6f9x83yig7mgwx35v2z9mnsn9y" xml:space="preserve">Farms or orchards that offer public activities.</text>
+      <sha1>i0swr6f9x83yig7mgwx35v2z9mnsn9y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Neighbourhood:Surrounds</title>
+    <ns>14</ns>
+    <id>91</id>
+    <revision>
+      <id>221</id>
+      <timestamp>2022-09-11T15:21:01Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Not a neighbourhood of London but in the surrounding area."</comment>
+      <origin>221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="58" sha1="gam132t2u4crpq7ddwo8r6oxwi8acrw" xml:space="preserve">Not a neighbourhood of London but in the surrounding area.</text>
+      <sha1>gam132t2u4crpq7ddwo8r6oxwi8acrw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Bakery</title>
+    <ns>14</ns>
+    <id>92</id>
+    <revision>
+      <id>222</id>
+      <timestamp>2022-09-11T15:21:31Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Bakeries, patisseries and similar."</comment>
+      <origin>222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="k32q0gfszblvdutlmmd6673nxfomzh9" xml:space="preserve">Bakeries, patisseries and similar.</text>
+      <sha1>k32q0gfszblvdutlmmd6673nxfomzh9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Activity:Fruit Picking</title>
+    <ns>14</ns>
+    <id>93</id>
+    <revision>
+      <id>223</id>
+      <timestamp>2022-09-11T15:22:09Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Places where you can pick ad purchase your own fruit."</comment>
+      <origin>223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="srqm5ujumasxi6wqxw3jdxxp68x4eif" xml:space="preserve">Places where you can pick ad purchase your own fruit.</text>
+      <sha1>srqm5ujumasxi6wqxw3jdxxp68x4eif</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Bakery</title>
+    <ns>14</ns>
+    <id>94</id>
+    <redirect title="Store:Bakery" />
+    <revision>
+      <id>224</id>
+      <timestamp>2022-09-11T15:25:20Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Redirected page to [[Store:Bakery]]</comment>
+      <origin>224</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="isxy2ui31cee7kgdt4jkfzyk2jw31as" xml:space="preserve">#REDIRECT [[Store:Bakery]]</text>
+      <sha1>isxy2ui31cee7kgdt4jkfzyk2jw31as</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Clovermead</title>
+    <ns>0</ns>
+    <id>95</id>
+    <revision>
+      <id>227</id>
+      <timestamp>2022-09-11T15:40:38Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{Place|type=Farm|neighbourhood=Surrounds|website=https://clovermead.com|googlemaps=https://g.page/clovermead?share}}  An adventure farm and store focused on honey. Features a splashpad, corn maze, pumpkin picking, and farm animal petting zoo. [[Category:Store:Farm]] [[Category:Activity:Kids]]"</comment>
+      <origin>227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="o978x2h7c8l0zkqi4o1wmg02e4p9a59" xml:space="preserve">{{Place|type=Farm|neighbourhood=Surrounds|website=https://clovermead.com|googlemaps=https://g.page/clovermead?share}}
+
+An adventure farm and store focused on honey. Features a splashpad, corn maze, pumpkin picking, and farm animal petting zoo.
+[[Category:Store:Farm]]
+[[Category:Activity:Kids]]</text>
+      <sha1>o978x2h7c8l0zkqi4o1wmg02e4p9a59</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Farm</title>
+    <ns>14</ns>
+    <id>96</id>
+    <revision>
+      <id>229</id>
+      <timestamp>2022-09-11T15:42:09Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Stores attached to or related to farms."</comment>
+      <origin>229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" sha1="7op5ffer0yto6zl0hwthf0u7ve2vi5v" xml:space="preserve">Stores attached to or related to farms.</text>
+      <sha1>7op5ffer0yto6zl0hwthf0u7ve2vi5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Activity:Kids</title>
+    <ns>14</ns>
+    <id>97</id>
+    <revision>
+      <id>230</id>
+      <timestamp>2022-09-11T15:43:40Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Activities primarily targeted at kids of parent with kids, such as petting zoos, funfares, or playgrounds."</comment>
+      <origin>230</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="3wf3mzvo7skb99kdlawl05mvgj73ngm" xml:space="preserve">Activities primarily targeted at kids of parent with kids, such as petting zoos, funfares, or playgrounds.</text>
+      <sha1>3wf3mzvo7skb99kdlawl05mvgj73ngm</sha1>
     </revision>
   </page>
 </mediawiki>
