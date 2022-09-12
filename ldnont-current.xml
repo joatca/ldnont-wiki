@@ -2098,4 +2098,64 @@ An adventure farm and store focused on honey. Features a splashpad, corn maze, p
       <sha1>3wf3mzvo7skb99kdlawl05mvgj73ngm</sha1>
     </revision>
   </page>
+  <page>
+    <title>Vaka Craft Chocolate</title>
+    <ns>0</ns>
+    <id>98</id>
+    <revision>
+      <id>231</id>
+      <timestamp>2022-09-11T23:38:46Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{Place|type=Store:Candy|neighbourhood=North Talbot|website=https://vakachocolate.com|googlemaps=https://goo.gl/maps/ygRbXedfwZAJduoy7}}  Offers hand-craft chocolate and non-dairy vegan ice cream. [[Category:Store:Vegan]]"</comment>
+      <origin>231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="f1jmtnni59lr7e2d2908pcr9nl8cgsq" xml:space="preserve">{{Place|type=Store:Candy|neighbourhood=North Talbot|website=https://vakachocolate.com|googlemaps=https://goo.gl/maps/ygRbXedfwZAJduoy7}}
+
+Offers hand-craft chocolate and non-dairy vegan ice cream.
+[[Category:Store:Vegan]]</text>
+      <sha1>f1jmtnni59lr7e2d2908pcr9nl8cgsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Candy</title>
+    <ns>14</ns>
+    <id>99</id>
+    <revision>
+      <id>232</id>
+      <timestamp>2022-09-11T23:40:27Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Stores that specialise in confectionery."</comment>
+      <origin>232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" sha1="6dm0odosqy0nprt1xojd7d762q82rp2" xml:space="preserve">Stores that specialise in confectionery.</text>
+      <sha1>6dm0odosqy0nprt1xojd7d762q82rp2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Vegan</title>
+    <ns>14</ns>
+    <id>100</id>
+    <revision>
+      <id>233</id>
+      <timestamp>2022-09-11T23:41:05Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Stores that offer at least some vegan products."</comment>
+      <origin>233</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="7cckr51xl8o75f9zpbnlqogqv5swcpn" xml:space="preserve">Stores that offer at least some vegan products.</text>
+      <sha1>7cckr51xl8o75f9zpbnlqogqv5swcpn</sha1>
+    </revision>
+  </page>
 </mediawiki>
