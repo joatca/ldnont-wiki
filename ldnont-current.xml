@@ -2158,4 +2158,87 @@ Offers hand-craft chocolate and non-dairy vegan ice cream.
       <sha1>7cckr51xl8o75f9zpbnlqogqv5swcpn</sha1>
     </revision>
   </page>
+  <page>
+    <title>Junction Climbing Centre</title>
+    <ns>0</ns>
+    <id>101</id>
+    <revision>
+      <id>236</id>
+      <parentid>235</parentid>
+      <timestamp>2022-09-13T01:05:22Z</timestamp>
+      <contributor>
+        <username>ClurryMcFury</username>
+        <id>6</id>
+      </contributor>
+      <comment>Fixing GMaps link and updating neighbourhood</comment>
+      <origin>236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="588" sha1="7qrtrq4wdjfj35cm9758w75twc1x35q" xml:space="preserve">{{Place|type=Gym|neighbourhood=Old East Village|website=https://www.junctionclimbing.com/|googlemaps=https://www.google.com/maps/dir//junction+climbing+centre/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x882eed8594be67e1:0x7ed30c0e817c5544?sa=X&amp;ved=2ahUKEwiRwbOxyZD6AhVzhIkEHUxJCX4Q9Rd6BAhjEAU}}
+
+Junction Climbing Centre is London's indoor rock climbing gym located in Old East Village, sharing the building with Anderson Craft Ales at 1030 Elias St, London, ON N5W 3P6. Junction includes top rope, lead climbing, and bouldering. Junction hosts birthday parties, children's camps, and group events.</text>
+      <sha1>7qrtrq4wdjfj35cm9758w75twc1x35q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Gym</title>
+    <ns>14</ns>
+    <id>102</id>
+    <revision>
+      <id>237</id>
+      <timestamp>2022-09-13T01:06:18Z</timestamp>
+      <contributor>
+        <username>ClurryMcFury</username>
+        <id>6</id>
+      </contributor>
+      <comment>Adding description and creating page</comment>
+      <origin>237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17" sha1="4x1tau5glfn5kkqdn50pg13bo7ovz1o" xml:space="preserve">All types of gym.</text>
+      <sha1>4x1tau5glfn5kkqdn50pg13bo7ovz1o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>J2 Bouldering</title>
+    <ns>0</ns>
+    <id>103</id>
+    <revision>
+      <id>238</id>
+      <timestamp>2022-09-13T01:11:03Z</timestamp>
+      <contributor>
+        <username>ClurryMcFury</username>
+        <id>6</id>
+      </contributor>
+      <comment>Creating page, adding description</comment>
+      <origin>238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="449" sha1="8ig0ag22c55if5mfpqkjsxankx8ohvl" xml:space="preserve">J2 Bouldering is Junction Climbing Centre's second gym. J2 Bouldering is a bouldering-only gym. J2 Bouldering is located in Hyde Park at 1828 Blue Heron Drive Unit 1 London, ON N6H 0B7.
+
+{{Place|type=Gym|neighbourhood=Hyde Park|website=https://www.j2bouldering.com/|googlemaps=https://www.google.com/maps/dir//j2+bouldering/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x882eef0b59509005:0x8eade737b53900b3?sa=X&amp;ved=2ahUKEwiH_9C2yJD6AhWgrYkEHaRkCEMQ9Rd6BAhsEAU}}</text>
+      <sha1>8ig0ag22c55if5mfpqkjsxankx8ohvl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kustermans Adventure Farm</title>
+    <ns>0</ns>
+    <id>104</id>
+    <revision>
+      <id>239</id>
+      <timestamp>2022-09-13T01:20:56Z</timestamp>
+      <contributor>
+        <username>ClurryMcFury</username>
+        <id>6</id>
+      </contributor>
+      <comment>Created page and added description</comment>
+      <origin>239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="616" sha1="3rx5a7td7234cno4anyr5sna3kewcct" xml:space="preserve">{{Place|type=Farm|neighbourhood=Surrounds|website=https://www.kustermans.ca/|googlemaps=https://www.google.com/maps/dir//kustermans/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x882efe097403f101:0x25649637239562d6?sa=X&amp;ved=2ahUKEwjuu7LQy5D6AhU-pIkEHWYnBu4Q9Rd6BAhYEAU}}
+
+Kustermans is a family farm featuring a variety of activities. During the summer, you can pick strawberries, blueberries, raspberries, and sunflowers. In the fall, you can pick pumpkins or visit their corn maze. Kustermans also features their Adventure Farm, which includes jumping pillows, a petting zoo, pedal karts, and many more activities for children.</text>
+      <sha1>3rx5a7td7234cno4anyr5sna3kewcct</sha1>
+    </revision>
+  </page>
 </mediawiki>
