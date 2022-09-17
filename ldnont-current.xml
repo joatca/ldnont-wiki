@@ -1835,22 +1835,20 @@ A small, privately-owned Korean restaurant which also offers some Japanese dishe
     <ns>0</ns>
     <id>85</id>
     <revision>
-      <id>214</id>
-      <parentid>213</parentid>
-      <timestamp>2022-09-10T00:11:20Z</timestamp>
+      <id>243</id>
+      <parentid>241</parentid>
+      <timestamp>2022-09-17T15:58:57Z</timestamp>
       <contributor>
-        <username>AbaloneSandwich</username>
-        <id>4</id>
+        <username>Unsound</username>
+        <id>1</id>
       </contributor>
-      <origin>214</origin>
+      <origin>243</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="121" sha1="izmv6wif2qc89gqbafietrzww3s8klz" xml:space="preserve">Local organic vegan restaurant offering Dine-In or Curbside Pickup. 
+      <text bytes="215" sha1="bqvjdn629lwwcltv0fk5c5x29ozgzd0" xml:space="preserve">{{Place|type=Restaurant:Vegan|neighbourhood=Old South|website=https://plantmatterkitchen.com/|googlemaps=https://g.page/PlantMatterKitchen?share}}
 
-Located at 162 Wortley Road
-
-plantmatterkitchen.com</text>
-      <sha1>izmv6wif2qc89gqbafietrzww3s8klz</sha1>
+Local organic vegan restaurant offering Dine-In or Curbside Pickup.</text>
+      <sha1>bqvjdn629lwwcltv0fk5c5x29ozgzd0</sha1>
     </revision>
   </page>
   <page>
@@ -1858,21 +1856,21 @@ plantmatterkitchen.com</text>
     <ns>0</ns>
     <id>86</id>
     <revision>
-      <id>225</id>
-      <parentid>215</parentid>
-      <timestamp>2022-09-11T15:26:24Z</timestamp>
+      <id>242</id>
+      <parentid>225</parentid>
+      <timestamp>2022-09-17T15:57:27Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>225</origin>
+      <origin>242</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="108" sha1="56biprloipqgdxomlnn5059jplaeigb" xml:space="preserve">Bakery in London, Ontario located at 900 Oxford Street East 
+      <text bytes="182" sha1="mvd8lafawm77hv8pc3qtopntkk84r6v" xml:space="preserve">{{Place|type=Store:Bakery|neighbourhood=Carling Heights|website=http://www.lanoisettebakery.com/|googlemaps=https://goo.gl/maps/4nWB85hHSPrtPd8a6}}
 
-lanoisettebakery.com
+Bakery 
 [[Category:Store:Bakery]]</text>
-      <sha1>56biprloipqgdxomlnn5059jplaeigb</sha1>
+      <sha1>mvd8lafawm77hv8pc3qtopntkk84r6v</sha1>
     </revision>
   </page>
   <page>
@@ -1902,19 +1900,20 @@ Budweiser Gardens hosts events such as concerts, performances, sport events, cha
     <ns>0</ns>
     <id>88</id>
     <revision>
-      <id>226</id>
-      <parentid>217</parentid>
-      <timestamp>2022-09-11T15:26:35Z</timestamp>
+      <id>240</id>
+      <parentid>226</parentid>
+      <timestamp>2022-09-17T15:51:30Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>226</origin>
+      <origin>240</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="214" sha1="nkxcfaho79ai87lhw0exckms232sqq8" xml:space="preserve">Cookie shop in the Carling Heights neighbourhood located at 996 Oxford Street East selling decorated sugar cookies, macarons, stuffed cookies and cookie sandwiches. Accepts custom orders. 
-[[Category:Store:Bakery]]</text>
-      <sha1>nkxcfaho79ai87lhw0exckms232sqq8</sha1>
+      <text bytes="260" sha1="6h27e4q1tx2d78j69064b6sjin5uop2" xml:space="preserve">{{Place|type=Store:Bakery|neighbourhood=Carling Heights|website=http://www.lauriescookies.ca/|googlemaps=https://g.page/Lauriescookies?share}}
+
+Cookie shop selling decorated sugar cookies, macarons, stuffed cookies and cookie sandwiches. Accepts custom orders.</text>
+      <sha1>6h27e4q1tx2d78j69064b6sjin5uop2</sha1>
     </revision>
   </page>
   <page>
@@ -2239,6 +2238,44 @@ Junction Climbing Centre is London's indoor rock climbing gym located in Old Eas
 
 Kustermans is a family farm featuring a variety of activities. During the summer, you can pick strawberries, blueberries, raspberries, and sunflowers. In the fall, you can pick pumpkins or visit their corn maze. Kustermans also features their Adventure Farm, which includes jumping pillows, a petting zoo, pedal karts, and many more activities for children.</text>
       <sha1>3rx5a7td7234cno4anyr5sna3kewcct</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Restaurant:Vegan</title>
+    <ns>14</ns>
+    <id>105</id>
+    <revision>
+      <id>244</id>
+      <timestamp>2022-09-17T15:59:44Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Restaurants offering primarily vegan food."</comment>
+      <origin>244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="ih4wxsjyw9h2mga2jag3ixgdxj2w6m9" xml:space="preserve">Restaurants offering primarily vegan food.</text>
+      <sha1>ih4wxsjyw9h2mga2jag3ixgdxj2w6m9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Neighbourhood:Old South</title>
+    <ns>14</ns>
+    <id>106</id>
+    <revision>
+      <id>248</id>
+      <parentid>247</parentid>
+      <timestamp>2022-09-17T16:04:11Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <origin>248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="160" sha1="oqfqbfmttm2m63o2ewye2qc39ouf4rs" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/old-south Old South] is a historic neighbourhood just south of [[:Category:Neighbourhood:Downtown|Downtown]].</text>
+      <sha1>oqfqbfmttm2m63o2ewye2qc39ouf4rs</sha1>
     </revision>
   </page>
 </mediawiki>
