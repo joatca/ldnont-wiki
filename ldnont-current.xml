@@ -327,17 +327,17 @@ Restaurants that could be classified as "diners" or "family restaurants".
     <ns>4</ns>
     <id>14</id>
     <revision>
-      <id>191</id>
-      <parentid>190</parentid>
-      <timestamp>2022-09-06T22:29:48Z</timestamp>
+      <id>253</id>
+      <parentid>252</parentid>
+      <timestamp>2022-09-29T20:32:40Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>191</origin>
+      <origin>253</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3262" sha1="dp351p160yitolcg1wozg9s25na9vl9" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
+      <text bytes="3680" sha1="aawrzauvrt044v02ge9m1nl5hm3971s" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
 
 See Mediawiki's [[mediawikiwiki:Help:Editing_pages|general guidelines]] for help on the "wiki way". For this site in particular, it's sufficient to write very brief descriptions and link to other websites (like we just did with the previous links).
 
@@ -368,8 +368,35 @@ To create a page, edit the URL in your browser to a page name that doesn't exist
 
 As an example, see [[Delmar Restaurant]]; in this case neighbourhood was set to '''Argyle''' and type to '''Restaurant:Diner'''. Note how it was automatically added to those categories (on the right on desktop and at the bottom on mobile) and that links to external sites are used. See the [[Neighbourhoods|list of existing neighbourhoods]] and the [[Special:Categories|list of all categories]] if you're not sure what to use.
 
-This wiki is automatically backed up every 6 hours to [https://github.com/joatca/ldnont-wiki this Github repository]. In case the server is lost or the current administrator becomes unavailable the files there can be used to recover all pages to a new Mediawiki instance.</text>
-      <sha1>dp351p160yitolcg1wozg9s25na9vl9</sha1>
+This wiki is automatically backed up every 6 hours to [https://github.com/joatca/ldnont-wiki this Github repository]. In case the server is lost or the current administrator becomes unavailable the files there can be used to recover all pages to a new Mediawiki instance.
+
+{| class="wikitable"
+|-
+!OS
+|Arch Linux
+|-
+!Web server
+|nginx
+|-
+!Database
+|SQLite
+|-
+![[mediawikiwiki:MediaWiki|Mediawiki]] version
+|{{CURRENTVERSION}}
+|-
+!PHP version
+|7.4.30
+|-
+!Server Host
+|[https://1984.hosting 1984 Hosting] in [https://goo.gl/maps/KMm8UEF36qpV3yhu9 Reykjavík, Iceland]
+|-
+!Total pages
+|[[Special:AllPages|{{NUMBEROFPAGES}}]]
+|-
+!Number of edits
+|[[Special:RecentChanges|{{NUMBEROFEDITS}}]]
+|}</text>
+      <sha1>aawrzauvrt044v02ge9m1nl5hm3971s</sha1>
     </revision>
   </page>
   <page>
