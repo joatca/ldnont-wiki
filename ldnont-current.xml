@@ -2308,4 +2308,192 @@ Kustermans is a family farm featuring a variety of activities. During the summer
       <sha1>oqfqbfmttm2m63o2ewye2qc39ouf4rs</sha1>
     </revision>
   </page>
+  <page>
+    <title>Brown &amp; Dickson</title>
+    <ns>0</ns>
+    <id>107</id>
+    <revision>
+      <id>256</id>
+      <parentid>254</parentid>
+      <timestamp>2022-11-02T00:13:52Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <origin>256</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="6lsno5j9xhr09v7krtzq2e6axrg4dmh" xml:space="preserve">{{Place|type=Store:Books|neighbourhood=Downtown|website=https://brownanddickson.com|googlemaps=https://g.page/brownanddickson?share}}
+
+Antiquarian booksellers and writers.
+[[Category:Store:Antique]]</text>
+      <sha1>6lsno5j9xhr09v7krtzq2e6axrg4dmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Books</title>
+    <ns>14</ns>
+    <id>108</id>
+    <revision>
+      <id>255</id>
+      <timestamp>2022-11-02T00:13:19Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Independent bookstores and sellers. [[Category:Store]]"</comment>
+      <origin>255</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="o5nhyit7vofqqxpiv38x1j5vwb7wqv7" xml:space="preserve">Independent bookstores and sellers.
+[[Category:Store]]</text>
+      <sha1>o5nhyit7vofqqxpiv38x1j5vwb7wqv7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Über Cool Stuff</title>
+    <ns>0</ns>
+    <id>109</id>
+    <revision>
+      <id>257</id>
+      <timestamp>2022-11-02T00:18:36Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "{{Place|type=Store:Gifts|neighbourhood=Downtown|website=http://www.ubercoolstuff.com/|googlemaps=https://g.page/UberCoolStuff?share}}  A long, narrow store selling all sorts of geek-related items. [[Category:Store:Specialty]] [[Category:Store:Collectibles]]"</comment>
+      <origin>257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="0oxq4zlikpmb7nk30ajqnwj5ruifjwx" xml:space="preserve">{{Place|type=Store:Gifts|neighbourhood=Downtown|website=http://www.ubercoolstuff.com/|googlemaps=https://g.page/UberCoolStuff?share}}
+
+A long, narrow store selling all sorts of geek-related items.
+[[Category:Store:Specialty]]
+[[Category:Store:Collectibles]]</text>
+      <sha1>0oxq4zlikpmb7nk30ajqnwj5ruifjwx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Gifts</title>
+    <ns>14</ns>
+    <id>110</id>
+    <revision>
+      <id>258</id>
+      <timestamp>2022-11-02T00:19:22Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Stores selling a lot of items that might be bought as gifts. [[Category:Store]]"</comment>
+      <origin>258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="aabzc9q8y83x3ivif8gstk8zhoiiswm" xml:space="preserve">Stores selling a lot of items that might be bought as gifts.
+[[Category:Store]]</text>
+      <sha1>aabzc9q8y83x3ivif8gstk8zhoiiswm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Specialty</title>
+    <ns>14</ns>
+    <id>111</id>
+    <revision>
+      <id>259</id>
+      <timestamp>2022-11-02T00:20:02Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Stores offering some sort of speciality goods. [[Category:Store]]"</comment>
+      <origin>259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="tcbvagwlys22p1mo9tkrqprkjiwm7hr" xml:space="preserve">Stores offering some sort of speciality goods.
+[[Category:Store]]</text>
+      <sha1>tcbvagwlys22p1mo9tkrqprkjiwm7hr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Collectibles</title>
+    <ns>14</ns>
+    <id>112</id>
+    <revision>
+      <id>260</id>
+      <timestamp>2022-11-02T00:20:53Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Stores selling some items that are collectible. [[Category:Store]]"</comment>
+      <origin>260</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="66" sha1="jxzhby0li14o9fjm96v9g2pi2wqez76" xml:space="preserve">Stores selling some items that are collectible.
+[[Category:Store]]</text>
+      <sha1>jxzhby0li14o9fjm96v9g2pi2wqez76</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cherry's Desserts</title>
+    <ns>0</ns>
+    <id>113</id>
+    <revision>
+      <id>261</id>
+      <timestamp>2022-11-02T00:25:07Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Created page with "Eat only desserts!  {{Place|type=Store:Desserts|neighbourhood=Downtown|website=http://cherrysdesserts.ca/|googlemaps=https://goo.gl/maps/NTuzLnTR6ErsCp137}} [[Category:Restaurant:Desserts]]"</comment>
+      <origin>261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="mk4gruj36qhyq7ag3x5m3scwx88tucf" xml:space="preserve">Eat only desserts!
+
+{{Place|type=Store:Desserts|neighbourhood=Downtown|website=http://cherrysdesserts.ca/|googlemaps=https://goo.gl/maps/NTuzLnTR6ErsCp137}}
+[[Category:Restaurant:Desserts]]</text>
+      <sha1>mk4gruj36qhyq7ag3x5m3scwx88tucf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Restaurant:Desserts</title>
+    <ns>14</ns>
+    <id>114</id>
+    <revision>
+      <id>266</id>
+      <parentid>265</parentid>
+      <timestamp>2022-11-02T00:27:08Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <origin>266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="efq9rc1c14ddxlflhjpja2c99ujf2zf" xml:space="preserve">Stores/restaurants offering primarily desserts.
+[[Category:Restaurant]]
+[[Category:Store]]</text>
+      <sha1>efq9rc1c14ddxlflhjpja2c99ujf2zf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Store:Desserts</title>
+    <ns>14</ns>
+    <id>115</id>
+    <redirect title="Category:Restaurant:Desserts" />
+    <revision>
+      <id>264</id>
+      <timestamp>2022-11-02T00:26:11Z</timestamp>
+      <contributor>
+        <username>Unsound</username>
+        <id>1</id>
+      </contributor>
+      <comment>Unsound moved page [[Category:Store:Desserts]] to [[Category:Restaurant:Desserts]]</comment>
+      <origin>264</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="4magxhvn3n1mt25g9j91yih8312lm63" xml:space="preserve">#REDIRECT [[:Category:Restaurant:Desserts]]</text>
+      <sha1>4magxhvn3n1mt25g9j91yih8312lm63</sha1>
+    </revision>
+  </page>
 </mediawiki>
