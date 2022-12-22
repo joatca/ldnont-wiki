@@ -197,6 +197,11 @@ wfLoadExtension( 'ParserFunctions' );
 # End of automatically generated settings.
 # Add more configuration options below.
 
-wfLoadExtension( 'DynamicPageList3' );
+#wfLoadExtension( 'DynamicPageList3' );
 wfLoadExtension( 'CreatePage' );
 $wgCreatePageUseVisualEditor = true;
+
+
+$wgShowExceptionDetails = true;
+$wgShowDBErrorBacktrace = true;
+$wgShowSQLErrors = true;

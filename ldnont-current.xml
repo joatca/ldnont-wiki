@@ -3,7 +3,7 @@
     <sitename>London Ontario City Wiki</sitename>
     <dbname>ldnont</dbname>
     <base>https://ldnont.info/wiki/Main_Page</base>
-    <generator>MediaWiki 1.38.2</generator>
+    <generator>MediaWiki 1.39.0</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -31,14 +31,15 @@
     <ns>0</ns>
     <id>1</id>
     <revision>
-      <id>218</id>
-      <parentid>212</parentid>
-      <timestamp>2022-09-10T00:42:06Z</timestamp>
+      <id>267</id>
+      <parentid>266</parentid>
+      <timestamp>2022-12-21T20:54:01Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <origin>218</origin>
+      <comment>Undo revision 1 by [[Special:Contributions/MediaWiki default|MediaWiki default]] ([[User talk:MediaWiki default|talk]])</comment>
+      <origin>267</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1071" sha1="ocl9aypxh4hf6uwys92hwbyyiowrf12" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
@@ -67,16 +68,16 @@ This site is a community effort and is not affiliated with the [https://london.c
   <page>
     <title>Delmar Restaurant</title>
     <ns>0</ns>
-    <id>4</id>
+    <id>2</id>
     <revision>
-      <id>69</id>
-      <parentid>59</parentid>
+      <id>33</id>
+      <parentid>32</parentid>
       <timestamp>2022-09-04T02:46:16Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>69</origin>
+      <origin>33</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="252" sha1="k81th4vs796tygvhls9s5qqa1gnfz57" xml:space="preserve">{{Place|type=Restaurant:Diner|neighbourhood=Argyle|website=https://www.delmarondundas.com|opened=1953|googlemaps=https://goo.gl/maps/t6w5FgBqWq3TP8Fz5}}The Delmar has been a London institution for decades, visit it at least once for classic diner food.</text>
@@ -86,16 +87,16 @@ This site is a community effort and is not affiliated with the [https://london.c
   <page>
     <title>Category:Restaurant:Diner</title>
     <ns>14</ns>
-    <id>5</id>
+    <id>3</id>
     <revision>
-      <id>145</id>
-      <parentid>45</parentid>
+      <id>36</id>
+      <parentid>35</parentid>
       <timestamp>2022-09-04T18:21:25Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>145</origin>
+      <origin>36</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="121" sha1="h5i9pkb9em13x213ivc8kklatr0bibt" xml:space="preserve">[[category:Restaurant]]
@@ -107,16 +108,16 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>Category:Neighbourhood:Argyle</title>
     <ns>14</ns>
-    <id>6</id>
+    <id>4</id>
     <revision>
-      <id>10</id>
+      <id>37</id>
       <timestamp>2022-09-03T22:21:55Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "&lt;noinclude&gt;  [https://www.neighbourgoodlondon.ca/neighbourhoods/argyle Argyle] is a large neighbourhood on the east side of London encompassing several smaller neighbourhoods.  &lt;/noinclude&gt;"</comment>
-      <origin>10</origin>
+      <origin>37</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="189" sha1="4plf2nlxqh15785dk3bwiidksqdhgic" xml:space="preserve">&lt;noinclude&gt;
@@ -130,16 +131,16 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>Template:Place</title>
     <ns>10</ns>
-    <id>7</id>
+    <id>5</id>
     <revision>
-      <id>179</id>
-      <parentid>174</parentid>
+      <id>80</id>
+      <parentid>79</parentid>
       <timestamp>2022-09-05T02:07:33Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>179</origin>
+      <origin>80</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1598" sha1="6iiyyy7de4av9hp5kb0l7i7e21rh78x" xml:space="preserve">{| class="wikitable" style="float:right; margin: auto; margin-left: 25px"
@@ -211,17 +212,17 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>Delmar</title>
     <ns>0</ns>
-    <id>8</id>
+    <id>6</id>
     <redirect title="Delmar Restaurant" />
     <revision>
-      <id>38</id>
+      <id>81</id>
       <timestamp>2022-09-03T23:35:45Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Unsound moved page [[Delmar]] to [[Delmar Restaurant]]</comment>
-      <origin>38</origin>
+      <origin>81</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="31" sha1="kxpouyns2i5talrbznbyhb7qv380d0k" xml:space="preserve">#REDIRECT [[Delmar Restaurant]]</text>
@@ -231,16 +232,16 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>MediaWiki:Sidebar</title>
     <ns>8</ns>
-    <id>9</id>
+    <id>7</id>
     <revision>
-      <id>175</id>
-      <parentid>159</parentid>
+      <id>92</id>
+      <parentid>91</parentid>
       <timestamp>2022-09-05T01:57:56Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>175</origin>
+      <origin>92</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="156" sha1="4u61dgoeb6d0ovs9n033ltw5tp56rwq" xml:space="preserve">*navigation
@@ -255,16 +256,16 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>Other Sites</title>
     <ns>0</ns>
-    <id>10</id>
+    <id>8</id>
     <revision>
-      <id>203</id>
-      <parentid>74</parentid>
+      <id>96</id>
+      <parentid>95</parentid>
       <timestamp>2022-09-07T13:20:58Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>203</origin>
+      <origin>96</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="615" sha1="lzlsa49jueoyg0b51jj50wts5c16qz6" xml:space="preserve">Some other sites with information about London
@@ -285,16 +286,16 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>Neighbourhoods</title>
     <ns>0</ns>
-    <id>12</id>
+    <id>9</id>
     <revision>
-      <id>63</id>
+      <id>97</id>
       <timestamp>2022-09-04T02:15:26Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Click any neighbourhood below to see articles in that neighbourhood.  {{#dpl:titlematch=Neighbourhood:%|namespace=Category|replaceintitle=/^Category:Neighbourhood:/,}}"</comment>
-      <origin>63</origin>
+      <origin>97</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="167" sha1="l0vz0pcr6fzza3q8lsucbu6s00koob0" xml:space="preserve">Click any neighbourhood below to see articles in that neighbourhood.
@@ -306,16 +307,16 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>Template:Extension DPL</title>
     <ns>10</ns>
-    <id>13</id>
+    <id>10</id>
     <revision>
-      <id>64</id>
+      <id>98</id>
       <timestamp>2022-09-04T02:16:23Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created blank page</comment>
-      <origin>64</origin>
+      <origin>98</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
@@ -325,16 +326,16 @@ Restaurants that could be classified as "diners" or "family restaurants".
   <page>
     <title>LdnOnt:About</title>
     <ns>4</ns>
-    <id>14</id>
+    <id>11</id>
     <revision>
-      <id>253</id>
-      <parentid>252</parentid>
+      <id>118</id>
+      <parentid>117</parentid>
       <timestamp>2022-09-29T20:32:40Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>253</origin>
+      <origin>118</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3680" sha1="aawrzauvrt044v02ge9m1nl5hm3971s" xml:space="preserve">This site is intended to be a guide to [[wikipedia:London,_Ontario|London, Ontario]] without duplicating information that exists elsewhere. It contains interesting places to visit, to shop, to work, or to find help, all categorized by subject and neighbourhood. Read these guidelines and if you're interesting in contributing, [[Requesting an Account|request an account]].
@@ -402,16 +403,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Berkshire Village</title>
     <ns>14</ns>
-    <id>15</id>
+    <id>12</id>
     <revision>
-      <id>71</id>
+      <id>119</id>
       <timestamp>2022-09-04T03:20:06Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/berkshire-village Berkshire Village] is in the Westmount area close to the Civic Gardens."</comment>
-      <origin>71</origin>
+      <origin>119</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="140" sha1="7xravr5ibrafkw9d1zwqmwyf5m8pqnt" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/berkshire-village Berkshire Village] is in the Westmount area close to the Civic Gardens.</text>
@@ -421,16 +422,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Bishop Hellmuth</title>
     <ns>14</ns>
-    <id>16</id>
+    <id>13</id>
     <revision>
-      <id>72</id>
+      <id>120</id>
       <timestamp>2022-09-04T03:23:43Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/bishop-hellmuth Bishop Hellmuth] is a Heritage Conservation District located in the Old North area."</comment>
-      <origin>72</origin>
+      <origin>120</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="150" sha1="70tmxzw84n4qanfo80fefiufbo4kbnw" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/bishop-hellmuth Bishop Hellmuth] is a Heritage Conservation District located in the Old North area.</text>
@@ -440,16 +441,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Blackfriars</title>
     <ns>14</ns>
-    <id>17</id>
+    <id>14</id>
     <revision>
-      <id>78</id>
+      <id>121</id>
       <timestamp>2022-09-04T12:43:15Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/blackfriars Blackfriars] is a neighbourhood that runs along the Thames River close to the Downtown core."</comment>
-      <origin>78</origin>
+      <origin>121</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="155" sha1="fy5hgfteoegw6qg4z1py0plu26apnkw" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/blackfriars Blackfriars] is a neighbourhood that runs along the Thames River close to the Downtown core.</text>
@@ -459,16 +460,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Bostwick</title>
     <ns>14</ns>
-    <id>18</id>
+    <id>15</id>
     <revision>
-      <id>79</id>
+      <id>122</id>
       <timestamp>2022-09-04T12:44:51Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/bostwick Bostwick] is a rapidly growing neighbourhood in the southwest end of the city."</comment>
-      <origin>79</origin>
+      <origin>122</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="138" sha1="ohlci30tyianp8dtbqjw0lm65520zd4" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/bostwick Bostwick] is a rapidly growing neighbourhood in the southwest end of the city.</text>
@@ -478,16 +479,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Broughdale</title>
     <ns>14</ns>
-    <id>19</id>
+    <id>16</id>
     <revision>
-      <id>88</id>
-      <parentid>80</parentid>
+      <id>124</id>
+      <parentid>123</parentid>
       <timestamp>2022-09-04T12:58:40Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>88</origin>
+      <origin>124</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="121" sha1="0ajymky276p17p29va35fr56e3awia0" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/broughdale Broughdale] is located in the Old North area, near {{uwo}}.</text>
@@ -497,16 +498,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Byron</title>
     <ns>14</ns>
-    <id>20</id>
+    <id>17</id>
     <revision>
-      <id>81</id>
+      <id>125</id>
       <timestamp>2022-09-04T12:47:57Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/byron Byron] is centred around Commissioners and Boler and still retains a village feel."</comment>
-      <origin>81</origin>
+      <origin>125</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="139" sha1="nkw9ijrh43zachq8ozwcvsf2g6x0eoy" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/byron Byron] is centred around Commissioners and Boler and still retains a village feel.</text>
@@ -516,16 +517,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Carling Heights</title>
     <ns>14</ns>
-    <id>21</id>
+    <id>18</id>
     <revision>
-      <id>82</id>
+      <id>126</id>
       <timestamp>2022-09-04T12:49:43Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/carling-heights Carling Heights] has a large Canadian Forces Base located on the southern edge."</comment>
-      <origin>82</origin>
+      <origin>126</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="146" sha1="3e123reudari8ghzpnt02b377ngs9xr" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/carling-heights Carling Heights] has a large Canadian Forces Base located on the southern edge.</text>
@@ -535,16 +536,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Cedar Hollow</title>
     <ns>14</ns>
-    <id>22</id>
+    <id>19</id>
     <revision>
-      <id>83</id>
+      <id>127</id>
       <timestamp>2022-09-04T12:53:10Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/cedar-hollow Cedar Hollow] is a new neighbourhood in the northeast corner of the city, not far from Fanshawe Lake."</comment>
-      <origin>83</origin>
+      <origin>127</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="165" sha1="ce3npw06tbw9jiktbq95kkcdszby3er" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/cedar-hollow Cedar Hollow] is a new neighbourhood in the northeast corner of the city, not far from Fanshawe Lake.</text>
@@ -554,16 +555,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Chelsea Green</title>
     <ns>14</ns>
-    <id>23</id>
+    <id>20</id>
     <revision>
-      <id>84</id>
+      <id>128</id>
       <timestamp>2022-09-04T12:54:12Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/chelsea-green Chelsea Green] is a small neighbourhood just southeast of the core area."</comment>
-      <origin>84</origin>
+      <origin>128</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="137" sha1="mqktw0p9j7jaxtifkhizusmb5w0y01m" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/chelsea-green Chelsea Green] is a small neighbourhood just southeast of the core area.</text>
@@ -573,16 +574,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Cherryhill</title>
     <ns>14</ns>
-    <id>24</id>
+    <id>21</id>
     <revision>
-      <id>86</id>
-      <parentid>85</parentid>
+      <id>130</id>
+      <parentid>129</parentid>
       <timestamp>2022-09-04T12:56:41Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>86</origin>
+      <origin>130</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="138" sha1="qyfeepkoyrwd9yhct778kmddqsuj83a" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/cherryhill Cherryhill] has lots of high-density apartments and is not far from {{Uwo}}.</text>
@@ -592,16 +593,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Template:Uwo</title>
     <ns>10</ns>
-    <id>25</id>
+    <id>22</id>
     <revision>
-      <id>87</id>
+      <id>131</id>
       <timestamp>2022-09-04T12:57:39Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://uwo.ca Western University]"</comment>
-      <origin>87</origin>
+      <origin>131</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="35" sha1="om0on1qaf6qtyceh67qcy093oxkdtzu" xml:space="preserve">[https://uwo.ca Western University]</text>
@@ -611,16 +612,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Cleardale</title>
     <ns>14</ns>
-    <id>26</id>
+    <id>23</id>
     <revision>
-      <id>89</id>
+      <id>132</id>
       <timestamp>2022-09-04T12:59:52Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/cleardale Cleardale] is a small neighbourhood in the south end of London."</comment>
-      <origin>89</origin>
+      <origin>132</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="124" sha1="i2j5ihk38e3pz04xih6xu33qe1204ll" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/cleardale Cleardale] is a small neighbourhood in the south end of London.</text>
@@ -630,16 +631,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Westmount</title>
     <ns>14</ns>
-    <id>27</id>
+    <id>24</id>
     <revision>
-      <id>90</id>
+      <id>133</id>
       <timestamp>2022-09-04T13:02:10Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/westmount Westmount] is a large neighbourhood in southwest London with a diverse mix of housing."</comment>
-      <origin>90</origin>
+      <origin>133</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="147" sha1="q65g1t26tmwx7pxq1tdxwpl5vexxsm0" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/westmount Westmount] is a large neighbourhood in southwest London with a diverse mix of housing.</text>
@@ -649,16 +650,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Downtown</title>
     <ns>14</ns>
-    <id>28</id>
+    <id>25</id>
     <revision>
-      <id>94</id>
+      <id>134</id>
       <timestamp>2022-09-04T13:12:43Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/downtown Downtown] is the core and centre of London."</comment>
-      <origin>94</origin>
+      <origin>134</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="103" sha1="rr06w2h5ytx8d0lz4zqp4w2qdm1y1zg" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/downtown Downtown] is the core and centre of London.</text>
@@ -668,16 +669,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Fairmont</title>
     <ns>14</ns>
-    <id>29</id>
+    <id>26</id>
     <revision>
-      <id>95</id>
+      <id>135</id>
       <timestamp>2022-09-04T13:15:29Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/fairmont Fairmont] is near Thames River and Pottersburg Creek in the southeast corner of the city."</comment>
-      <origin>95</origin>
+      <origin>135</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="149" sha1="fsos8k97fuhh66oeb9bdk3b5zpz8xmd" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/fairmont Fairmont] is near Thames River and Pottersburg Creek in the southeast corner of the city.</text>
@@ -687,16 +688,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Fox Field</title>
     <ns>14</ns>
-    <id>30</id>
+    <id>27</id>
     <revision>
-      <id>96</id>
+      <id>136</id>
       <timestamp>2022-09-04T13:16:43Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "At the northwest corner of the city, [https://www.neighbourgoodlondon.ca/neighbourhoods/fox-field Fox Field] is a new subdivision."</comment>
-      <origin>96</origin>
+      <origin>136</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="130" sha1="bfw8tnj2rps3lj9ipq9abkvlym8ql7l" xml:space="preserve">At the northwest corner of the city, [https://www.neighbourgoodlondon.ca/neighbourhoods/fox-field Fox Field] is a new subdivision.</text>
@@ -706,16 +707,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Glen Cairn Woods</title>
     <ns>14</ns>
-    <id>31</id>
+    <id>28</id>
     <revision>
-      <id>102</id>
+      <id>137</id>
       <timestamp>2022-09-04T15:04:17Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/glen-cairn-woods Glen Cairn Woods] is a residential neighbourhood in southeast London."</comment>
-      <origin>102</origin>
+      <origin>137</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="137" sha1="j2uku8zaf3xvd53bjd8guxr3k31pj96" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/glen-cairn-woods Glen Cairn Woods] is a residential neighbourhood in southeast London.</text>
@@ -725,16 +726,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Hale Street District</title>
     <ns>14</ns>
-    <id>32</id>
+    <id>29</id>
     <revision>
-      <id>103</id>
+      <id>138</id>
       <timestamp>2022-09-04T15:05:54Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/hale-street-district Hale Street District] is centred around Hale Street in East London."</comment>
-      <origin>103</origin>
+      <origin>138</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="139" sha1="30p1vkhtx4urnu2eiiklb46wjssxj28" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/hale-street-district Hale Street District] is centred around Hale Street in East London.</text>
@@ -744,16 +745,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Hamilton Road</title>
     <ns>14</ns>
-    <id>33</id>
+    <id>30</id>
     <revision>
-      <id>106</id>
-      <parentid>104</parentid>
+      <id>140</id>
+      <parentid>139</parentid>
       <timestamp>2022-09-04T15:14:37Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>106</origin>
+      <origin>140</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="163" sha1="m93qj1dk94o9q0csefe91968dskphfz" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/hamilton-road Hamilton Road] runs along Hamilton Rd. southeast of [[:Category:Neighbourhood:Downtown|Downtown]].</text>
@@ -763,16 +764,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Oakridge</title>
     <ns>14</ns>
-    <id>34</id>
+    <id>31</id>
     <revision>
-      <id>105</id>
+      <id>141</id>
       <timestamp>2022-09-04T15:13:37Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/oakridge Oakridge] is mainly residential in west London."</comment>
-      <origin>105</origin>
+      <origin>141</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="107" sha1="l718wgmxpyruo0m8e72ub86l4s23ru5" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/oakridge Oakridge] is mainly residential in west London.</text>
@@ -782,16 +783,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Highland</title>
     <ns>14</ns>
-    <id>35</id>
+    <id>32</id>
     <revision>
-      <id>107</id>
+      <id>142</id>
       <timestamp>2022-09-04T15:16:34Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/highland Highland] is in south London, bordering Old South along Commissioners Road."</comment>
-      <origin>107</origin>
+      <origin>142</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="135" sha1="fnix8leg4a3xsje063kkg308inw7nsu" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/highland Highland] is in south London, bordering Old South along Commissioners Road.</text>
@@ -801,16 +802,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Hunt Club</title>
     <ns>14</ns>
-    <id>36</id>
+    <id>33</id>
     <revision>
-      <id>108</id>
+      <id>143</id>
       <timestamp>2022-09-04T15:21:48Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/hunt-club Hunt Club] is to the northwest of [[:Category:Neighbourhood:Oakridge|Oakridge]]."</comment>
-      <origin>108</origin>
+      <origin>143</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="141" sha1="ph0xqk5n6vr424w517dirmbatbpywo0" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/hunt-club Hunt Club] is to the northwest of [[:Category:Neighbourhood:Oakridge|Oakridge]].</text>
@@ -820,16 +821,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Huron Heights</title>
     <ns>14</ns>
-    <id>37</id>
+    <id>34</id>
     <revision>
-      <id>109</id>
+      <id>144</id>
       <timestamp>2022-09-04T15:23:38Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/huron-heights Huron Heights] is in the northeast end of London with many schools, parks and shopping areas."</comment>
-      <origin>109</origin>
+      <origin>144</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="158" sha1="6te370ucdg07tg2ql2b2bjdb83rxmy0" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/huron-heights Huron Heights] is in the northeast end of London with many schools, parks and shopping areas.</text>
@@ -839,16 +840,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Hyde Park</title>
     <ns>14</ns>
-    <id>38</id>
+    <id>35</id>
     <revision>
-      <id>110</id>
+      <id>145</id>
       <timestamp>2022-09-04T15:27:27Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/hyde-park Hyde Park] is London’s northwest corner."</comment>
-      <origin>110</origin>
+      <origin>145</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="103" sha1="t2xel5mowlfft9kd6u9eiagm6djbfuf" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/hyde-park Hyde Park] is London’s northwest corner.</text>
@@ -858,16 +859,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Kensal Park</title>
     <ns>14</ns>
-    <id>39</id>
+    <id>36</id>
     <revision>
-      <id>112</id>
-      <parentid>111</parentid>
+      <id>147</id>
+      <parentid>146</parentid>
       <timestamp>2022-09-04T15:30:20Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>112</origin>
+      <origin>147</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="143" sha1="7f73s0hm7mvllbv85iu5v2t8k51zjsq" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/kensal-park Kensal Park] is just southwest of [[:Category:Neighbourhood:Downtown|Downtown]].</text>
@@ -877,16 +878,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Kensington Village</title>
     <ns>14</ns>
-    <id>40</id>
+    <id>37</id>
     <revision>
-      <id>113</id>
+      <id>148</id>
       <timestamp>2022-09-04T15:32:37Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/kensington-village Kensington Village] is a small neighbourhood between the Thames River and Riverside Dr., just west of Wharncliffe Rd."</comment>
-      <origin>113</origin>
+      <origin>148</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="187" sha1="ge976dp082oiyvhao5ti1hqpzy5y7fn" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/kensington-village Kensington Village] is a small neighbourhood between the Thames River and Riverside Dr., just west of Wharncliffe Rd.</text>
@@ -896,16 +897,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Kilally Valley</title>
     <ns>14</ns>
-    <id>41</id>
+    <id>38</id>
     <revision>
-      <id>114</id>
+      <id>149</id>
       <timestamp>2022-09-04T15:34:13Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/kilally-valley Kilally Valley] is a newer neighbourhood located in the city’s northeast corner, sometimes called Kilally Glen."</comment>
-      <origin>114</origin>
+      <origin>149</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="179" sha1="ajlmqeh9xx1mwmnjdwqxyk6fvf4zipc" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/kilally-valley Kilally Valley] is a newer neighbourhood located in the city’s northeast corner, sometimes called Kilally Glen.</text>
@@ -915,16 +916,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Kipps Lane</title>
     <ns>14</ns>
-    <id>42</id>
+    <id>39</id>
     <revision>
-      <id>115</id>
+      <id>150</id>
       <timestamp>2022-09-04T15:35:34Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/kipps-lane Kipps Lane] is in the northeast end of London."</comment>
-      <origin>115</origin>
+      <origin>150</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="108" sha1="qvpv3xpjcy53kv0rng1e3s1inne0yo2" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/kipps-lane Kipps Lane] is in the northeast end of London.</text>
@@ -934,16 +935,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Lambeth</title>
     <ns>14</ns>
-    <id>43</id>
+    <id>40</id>
     <revision>
-      <id>116</id>
+      <id>151</id>
       <timestamp>2022-09-04T15:37:58Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/lambeth Lambeth] maintains a small town feel in the southwest of London."</comment>
-      <origin>116</origin>
+      <origin>151</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="123" sha1="6g3tkek2gbw0echg1tggsuvl18wmrcu" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/lambeth Lambeth] maintains a small town feel in the southwest of London.</text>
@@ -953,16 +954,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Limberlost</title>
     <ns>14</ns>
-    <id>44</id>
+    <id>41</id>
     <revision>
-      <id>117</id>
+      <id>152</id>
       <timestamp>2022-09-04T15:38:55Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/limberlost Limberlost] surrounds but is not limited to Limberlost Road."</comment>
-      <origin>117</origin>
+      <origin>152</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="122" sha1="htk7u1kp1cqjthdlxlaljwrycxfvk44" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/limberlost Limberlost] surrounds but is not limited to Limberlost Road.</text>
@@ -972,16 +973,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Lockwood Park</title>
     <ns>14</ns>
-    <id>45</id>
+    <id>42</id>
     <revision>
-      <id>118</id>
+      <id>153</id>
       <timestamp>2022-09-04T15:41:32Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/lockwood-park Lockwood Park] is located in south London."</comment>
-      <origin>118</origin>
+      <origin>153</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="107" sha1="6ob0sfdubpdspq8ibugzvtpo4zwb0u7" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/lockwood-park Lockwood Park] is located in south London.</text>
@@ -991,16 +992,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Longwoods</title>
     <ns>14</ns>
-    <id>46</id>
+    <id>43</id>
     <revision>
-      <id>119</id>
+      <id>154</id>
       <timestamp>2022-09-04T15:43:36Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/longwoods Longwoods] is a recently developed neighbourhood in south London."</comment>
-      <origin>119</origin>
+      <origin>154</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="126" sha1="f8ws62ie9d9ay1hqi975n1dcl2slpk0" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/longwoods Longwoods] is a recently developed neighbourhood in south London.</text>
@@ -1010,16 +1011,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Manor Park</title>
     <ns>14</ns>
-    <id>47</id>
+    <id>44</id>
     <revision>
-      <id>120</id>
+      <id>155</id>
       <timestamp>2022-09-04T16:06:30Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/manor-park Manor Park] is southwest of the core area."</comment>
-      <origin>120</origin>
+      <origin>155</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="104" sha1="o3e7qghp9y8fypg9fjsc86dm9p3r5sj" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/manor-park Manor Park] is southwest of the core area.</text>
@@ -1029,16 +1030,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Midtown</title>
     <ns>14</ns>
-    <id>48</id>
+    <id>45</id>
     <revision>
-      <id>121</id>
+      <id>156</id>
       <timestamp>2022-09-04T16:09:09Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Midtown is centred along Dundas St. between [[:Category:Neighbourhood:Downtown|Downtown]] core and [[:Category:Neighbourhood:Old East Village|Old East Village]]."</comment>
-      <origin>121</origin>
+      <origin>156</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="161" sha1="7yay816zbijyf5ob3ootpq78zv600gk" xml:space="preserve">Midtown is centred along Dundas St. between [[:Category:Neighbourhood:Downtown|Downtown]] core and [[:Category:Neighbourhood:Old East Village|Old East Village]].</text>
@@ -1048,16 +1049,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Masonville</title>
     <ns>14</ns>
-    <id>49</id>
+    <id>46</id>
     <revision>
-      <id>122</id>
+      <id>157</id>
       <timestamp>2022-09-04T16:13:32Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/masonville Masonville] is  in north London and includes [https://shops.cadillacfairview.com/property/cf-masonville-place Masonville Place]."</comment>
-      <origin>122</origin>
+      <origin>157</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="190" sha1="o5vbu7fh3kgmqxi3p341ky8an7wjjd1" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/masonville Masonville] is  in north London and includes [https://shops.cadillacfairview.com/property/cf-masonville-place Masonville Place].</text>
@@ -1067,16 +1068,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:North Talbot</title>
     <ns>14</ns>
-    <id>50</id>
+    <id>47</id>
     <revision>
-      <id>123</id>
+      <id>158</id>
       <timestamp>2022-09-04T16:45:51Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/north-talbot North Talbot] is just to the northwest of [[:Category:Neighbourhood:Downtown|Downtown]], running along the north branch of the Thames River."</comment>
-      <origin>123</origin>
+      <origin>158</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="204" sha1="354c2edz5e19nsw82vo4w4zgipad3td" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/north-talbot North Talbot] is just to the northwest of [[:Category:Neighbourhood:Downtown|Downtown]], running along the north branch of the Thames River.</text>
@@ -1086,16 +1087,16 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Category:Neighbourhood:Northcrest</title>
     <ns>14</ns>
-    <id>51</id>
+    <id>48</id>
     <revision>
-      <id>124</id>
+      <id>159</id>
       <timestamp>2022-09-04T16:47:19Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/northcrest Northcrest] is a small and not far from [[:Category:Neighbourhood:Masonville|Masonville]]."</comment>
-      <origin>124</origin>
+      <origin>159</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="152" sha1="s1lkngu6le6likzmqtjn1509oa23wwj" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/northcrest Northcrest] is a small and not far from [[:Category:Neighbourhood:Masonville|Masonville]].</text>
@@ -1105,17 +1106,17 @@ This wiki is automatically backed up every 6 hours to [https://github.com/joatca
   <page>
     <title>Liquidation Max BINZ</title>
     <ns>0</ns>
-    <id>52</id>
+    <id>49</id>
     <revision>
-      <id>176</id>
-      <parentid>125</parentid>
+      <id>161</id>
+      <parentid>160</parentid>
       <timestamp>2022-09-05T02:00:42Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>fixed website; expand description</comment>
-      <origin>176</origin>
+      <origin>161</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="262" sha1="gbh4uxfc5k73yn0qakvl5l7prt9u8v1" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Westminster|website=https://www.liquidationmaxinc.com|googlemaps=https://goo.gl/maps/zVgBsrbGPT8gC9zK7}}
@@ -1127,16 +1128,16 @@ A large liquidation store with all types of goods, in the standard bin format wi
   <page>
     <title>Master Liquidation</title>
     <ns>0</ns>
-    <id>53</id>
+    <id>50</id>
     <revision>
-      <id>180</id>
-      <parentid>126</parentid>
+      <id>163</id>
+      <parentid>162</parentid>
       <timestamp>2022-09-06T00:02:55Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>180</origin>
+      <origin>163</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="341" sha1="emsmm7qoq6lg1h7azi8hdeco8v7pmtt" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Proudfoot|website=http://masterliquidation.ca/|googlemaps=https://goo.gl/maps/3onGk1b18bY9vsQC9}}
@@ -1150,16 +1151,16 @@ A smaller liquidation store specialising in electronics. Mostly bins, but prices
   <page>
     <title>Category:Neighbourhood:Proudfoot</title>
     <ns>14</ns>
-    <id>54</id>
+    <id>51</id>
     <revision>
-      <id>127</id>
+      <id>164</id>
       <timestamp>2022-09-04T16:58:00Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/proudfoot Proudfoot] is in west London."</comment>
-      <origin>127</origin>
+      <origin>164</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="90" sha1="fxpyy55u6a2j46yswt6lh6y5jtoc9zi" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/proudfoot Proudfoot] is in west London.</text>
@@ -1169,16 +1170,16 @@ A smaller liquidation store specialising in electronics. Mostly bins, but prices
   <page>
     <title>Category:Neighbourhood:Pottersburg</title>
     <ns>14</ns>
-    <id>55</id>
+    <id>52</id>
     <revision>
-      <id>128</id>
+      <id>165</id>
       <timestamp>2022-09-04T17:02:54Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/pottersburg Pottersburg] is in the Argyle area of east London."</comment>
-      <origin>128</origin>
+      <origin>165</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="113" sha1="iwky6n62z9tslu2ci0cujkjx4p1hcnp" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/pottersburg Pottersburg] is in the Argyle area of east London.</text>
@@ -1188,16 +1189,16 @@ A smaller liquidation store specialising in electronics. Mostly bins, but prices
   <page>
     <title>Yardigans Estate Liquidation Services</title>
     <ns>0</ns>
-    <id>56</id>
+    <id>53</id>
     <revision>
-      <id>200</id>
-      <parentid>130</parentid>
+      <id>168</id>
+      <parentid>167</parentid>
       <timestamp>2022-09-07T01:31:29Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>200</origin>
+      <origin>168</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="540" sha1="6pksdkl7awj7w2w0jhyfwz84il2qqc0" xml:space="preserve">{{Place|type=Store:Liquidation|neighbourhood=Pottersburg|website=http://www.yardigans.ca/|googlemaps=https://www.google.ca/maps/place/Yardigans+Estate+Liquidation+Services/@42.9852299,-81.1989961,17z/data=!3m1!4b1!4m5!3m4!1s0x882ef284b30d57a9:0xc0b25eaec21e7423!8m2!3d42.9852299!4d-81.1968074}}
@@ -1209,17 +1210,17 @@ Yardigans is laid out more like a retail store than the typical "bins-style" liq
   <page>
     <title>Yardigans</title>
     <ns>0</ns>
-    <id>57</id>
+    <id>54</id>
     <redirect title="Yardigans Estate Liquidation Services" />
     <revision>
-      <id>131</id>
+      <id>169</id>
       <timestamp>2022-09-04T17:07:37Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Unsound moved page [[Yardigans]] to [[Yardigans Estate Liquidation Services]]</comment>
-      <origin>131</origin>
+      <origin>169</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="51" sha1="qo1gvr82n3zxaug6ftdm669basxnl4v" xml:space="preserve">#REDIRECT [[Yardigans Estate Liquidation Services]]</text>
@@ -1229,14 +1230,14 @@ Yardigans is laid out more like a retail store than the typical "bins-style" liq
   <page>
     <title>Dragon Gate</title>
     <ns>0</ns>
-    <id>58</id>
+    <id>55</id>
     <revision>
       <id>171</id>
-      <parentid>132</parentid>
+      <parentid>170</parentid>
       <timestamp>2022-09-05T01:53:35Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <origin>171</origin>
       <model>wikitext</model>
@@ -1250,16 +1251,16 @@ Dragon Gate is a classic old North-American-style Chinese restaurant with classi
   <page>
     <title>Category:Restaurant:Chinese</title>
     <ns>14</ns>
-    <id>59</id>
+    <id>56</id>
     <revision>
-      <id>144</id>
-      <parentid>141</parentid>
+      <id>174</id>
+      <parentid>173</parentid>
       <timestamp>2022-09-04T18:21:04Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>144</origin>
+      <origin>174</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="116" sha1="18wahhfelyp4yg8fznbobwxwkcfdptz" xml:space="preserve">Chinese restaurants, either authentic or North-American style.
@@ -1271,16 +1272,16 @@ Dragon Gate is a classic old North-American-style Chinese restaurant with classi
   <page>
     <title>Requesting an Account</title>
     <ns>0</ns>
-    <id>60</id>
+    <id>57</id>
     <revision>
-      <id>205</id>
-      <parentid>192</parentid>
+      <id>177</id>
+      <parentid>176</parentid>
       <timestamp>2022-09-07T13:55:15Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>205</origin>
+      <origin>177</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="162" sha1="hleqpmz8xh4korizb8dm4rxsgf6meba" xml:space="preserve">Email [mailto:accounts@ldnont.info accounts@ldnont.info] or ask on Reddit, and give an email address (where the password can be sent) and your preferred username.</text>
@@ -1290,17 +1291,17 @@ Dragon Gate is a classic old North-American-style Chinese restaurant with classi
   <page>
     <title>Back to the Fuchsia</title>
     <ns>0</ns>
-    <id>61</id>
+    <id>58</id>
     <revision>
-      <id>177</id>
-      <parentid>136</parentid>
+      <id>179</id>
+      <parentid>178</parentid>
       <timestamp>2022-09-05T02:02:47Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <minor/>
-      <origin>177</origin>
+      <origin>179</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="359" sha1="4qtmdjiwg5ha6ricutqs37nm1yfjmpd" xml:space="preserve">{{Place|type=Store:Antique|neighbourhood=Old East Village|website=https://www.facebook.com/pages/Back-to-the-Fuchsia/904215026270634?fref=ts|googlemaps=https://www.google.ca/maps/place/Back+to+the+Fuchsia/@42.9935421,-81.2230858,15.76z/data=!4m5!3m4!1s0x882eed8799ec9cef:0x4327a22d521fbe50!8m2!3d42.9933268!4d-81.2166074}}
@@ -1312,16 +1313,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>Category:Store:Antique</title>
     <ns>14</ns>
-    <id>62</id>
+    <id>59</id>
     <revision>
-      <id>178</id>
-      <parentid>146</parentid>
+      <id>182</id>
+      <parentid>181</parentid>
       <timestamp>2022-09-05T02:03:09Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>178</origin>
+      <origin>182</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="64" sha1="ov5tsdb8avi89vu1pf1jtktz8i7bopg" xml:space="preserve">Antique, vintage, and retro stores and malls.
@@ -1332,16 +1333,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>Category:Neighbourhood:Old East Village</title>
     <ns>14</ns>
-    <id>63</id>
+    <id>60</id>
     <revision>
-      <id>138</id>
+      <id>183</id>
       <timestamp>2022-09-04T17:39:46Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/old-east-village Old East Village] is a historic neighbourhood just east of Downtown."</comment>
-      <origin>138</origin>
+      <origin>183</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="136" sha1="opowlhfz4rrtn60s6ya20wfdi9d8xac" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/old-east-village Old East Village] is a historic neighbourhood just east of Downtown.</text>
@@ -1351,16 +1352,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>Category:Restaurant:Asian</title>
     <ns>14</ns>
-    <id>64</id>
+    <id>61</id>
     <revision>
-      <id>143</id>
-      <parentid>142</parentid>
+      <id>185</id>
+      <parentid>184</parentid>
       <timestamp>2022-09-04T18:20:08Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>143</origin>
+      <origin>185</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="54" sha1="669k78pyrvk3ko1ro1j5htgle2biv35" xml:space="preserve">All types of Asian restaurant.
@@ -1371,16 +1372,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>Category:Store:Electronics</title>
     <ns>14</ns>
-    <id>65</id>
+    <id>62</id>
     <revision>
-      <id>147</id>
+      <id>186</id>
       <timestamp>2022-09-04T18:22:05Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[[Category:Store]]"</comment>
-      <origin>147</origin>
+      <origin>186</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="18" sha1="70zv8hkjg8mvz43hy6puhsfq13129ml" xml:space="preserve">[[Category:Store]]</text>
@@ -1390,16 +1391,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>Category:Store:Liquidation</title>
     <ns>14</ns>
-    <id>66</id>
+    <id>63</id>
     <revision>
-      <id>148</id>
+      <id>187</id>
       <timestamp>2022-09-04T18:22:23Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[[Category:Store]]"</comment>
-      <origin>148</origin>
+      <origin>187</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="18" sha1="70zv8hkjg8mvz43hy6puhsfq13129ml" xml:space="preserve">[[Category:Store]]</text>
@@ -1409,16 +1410,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>Category:Store</title>
     <ns>14</ns>
-    <id>67</id>
+    <id>64</id>
     <revision>
-      <id>149</id>
+      <id>188</id>
       <timestamp>2022-09-04T18:26:06Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "All types of store."</comment>
-      <origin>149</origin>
+      <origin>188</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="19" sha1="gpyiaogr4mczpnx5vp3txz3wr11l925" xml:space="preserve">All types of store.</text>
@@ -1428,16 +1429,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>Category:Restaurant</title>
     <ns>14</ns>
-    <id>68</id>
+    <id>65</id>
     <revision>
-      <id>150</id>
+      <id>189</id>
       <timestamp>2022-09-04T18:26:16Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "All types of restaurant."</comment>
-      <origin>150</origin>
+      <origin>189</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="24" sha1="74w3q9mrq6lixrtev9n2ltkigpvieye" xml:space="preserve">All types of restaurant.</text>
@@ -1447,17 +1448,17 @@ Charming antique and vintage store.</text>
   <page>
     <title>Contribution Guidelines</title>
     <ns>0</ns>
-    <id>69</id>
+    <id>66</id>
     <redirect title="LdnOnt:About" />
     <revision>
-      <id>153</id>
+      <id>190</id>
       <timestamp>2022-09-04T18:28:19Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Unsound moved page [[Contribution Guidelines]] to [[LdnOnt:About]]</comment>
-      <origin>153</origin>
+      <origin>190</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="26" sha1="prsti68y102dz2o2svzktt83oo8w18k" xml:space="preserve">#REDIRECT [[LdnOnt:About]]</text>
@@ -1467,16 +1468,16 @@ Charming antique and vintage store.</text>
   <page>
     <title>LdnOnt:Copyrights</title>
     <ns>4</ns>
-    <id>70</id>
+    <id>67</id>
     <revision>
-      <id>156</id>
-      <parentid>154</parentid>
+      <id>192</id>
+      <parentid>191</parentid>
       <timestamp>2022-09-04T18:33:56Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>156</origin>
+      <origin>192</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="414" sha1="bmo16nds5iwq1vcv67buke78jfrvrnh" xml:space="preserve">If you upload to this wiki you agree that your content will be licensed under the [https://creativecommons.org/licenses/by-nc-sa/4.0/ Creative Commons Attribution-NonCommercial-ShareAlike] license. If you do not agree to this, do not contribute.
@@ -1488,16 +1489,16 @@ The link above gives full details but in summary you retain copyright on all con
   <page>
     <title>Sandbox</title>
     <ns>0</ns>
-    <id>71</id>
+    <id>68</id>
     <revision>
-      <id>181</id>
+      <id>193</id>
       <timestamp>2022-09-06T20:51:51Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Edit whatever you like here as a test, but please add categories only temporarily so they don't show up in the indexes.  * This * is * a * bullet * list  # And # this # is # numbered  ==== This is a heading ===="</comment>
-      <origin>181</origin>
+      <origin>193</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="211" sha1="kczpibceo0a7spazu52gzc28u09yh6n" xml:space="preserve">Edit whatever you like here as a test, but please add categories only temporarily so they don't show up in the indexes.
@@ -1520,16 +1521,16 @@ The link above gives full details but in summary you retain copyright on all con
   <page>
     <title>Template:Event</title>
     <ns>10</ns>
-    <id>72</id>
+    <id>69</id>
     <revision>
-      <id>186</id>
-      <parentid>185</parentid>
+      <id>196</id>
+      <parentid>195</parentid>
       <timestamp>2022-09-06T21:18:10Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>186</origin>
+      <origin>196</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2013" sha1="nktolrbjei5ejpvxxutn6xlfs8hb46f" xml:space="preserve">{| class="wikitable" style="float:right; margin: auto; margin-left: 25px"
@@ -1616,17 +1617,17 @@ The link above gives full details but in summary you retain copyright on all con
   <page>
     <title>London Christmas Craft Show</title>
     <ns>0</ns>
-    <id>73</id>
+    <id>70</id>
     <revision>
-      <id>187</id>
-      <parentid>184</parentid>
+      <id>198</id>
+      <parentid>197</parentid>
       <timestamp>2022-09-06T21:18:44Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <minor/>
-      <origin>187</origin>
+      <origin>198</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="353" sha1="78znxia77lm3sev0sxq2gd7rihsb4z8" xml:space="preserve">{{Event|type=Seasonal|alttype=Market|location=Western Fair District Agriplex|startdate=2022-12-01|enddate=2022-12-04|website=https://www.westernfairdistrict.com/events/41st-london-christmas-craft-show}}
@@ -1638,16 +1639,16 @@ This year is the 41st annual Christmas craft show. Entry is not free but it's an
   <page>
     <title>Category:Event:Seasonal</title>
     <ns>14</ns>
-    <id>74</id>
+    <id>71</id>
     <revision>
-      <id>188</id>
+      <id>199</id>
       <timestamp>2022-09-06T21:19:58Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "All events that happen only seasonally, for example, skating, Christmas markets, music festivals."</comment>
-      <origin>188</origin>
+      <origin>199</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="97" sha1="rhb99qyq7k62hlt1u74c6jpnpmheoqp" xml:space="preserve">All events that happen only seasonally, for example, skating, Christmas markets, music festivals.</text>
@@ -1657,16 +1658,16 @@ This year is the 41st annual Christmas craft show. Entry is not free but it's an
   <page>
     <title>Category:Event:Market</title>
     <ns>14</ns>
-    <id>75</id>
+    <id>72</id>
     <revision>
-      <id>189</id>
+      <id>200</id>
       <timestamp>2022-09-06T21:20:57Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Markets that are somewhat temporary or intermittent, for example, craft fairs or weekend markets that occur inside another facility."</comment>
-      <origin>189</origin>
+      <origin>200</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="132" sha1="h9fyjf1roceueju77c7moxsz67hfwff" xml:space="preserve">Markets that are somewhat temporary or intermittent, for example, craft fairs or weekend markets that occur inside another facility.</text>
@@ -1676,16 +1677,16 @@ This year is the 41st annual Christmas craft show. Entry is not free but it's an
   <page>
     <title>Western Fair District Agriplex</title>
     <ns>0</ns>
-    <id>76</id>
+    <id>73</id>
     <revision>
-      <id>193</id>
+      <id>201</id>
       <timestamp>2022-09-06T22:52:09Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "{{Place|type=Venue:Exhibitions|neighbourhood=Old East Village|website=https://www.westernfairdistrict.com/locations/western-fair-district-agriplex|googlemaps=https://goo.gl/maps/J8ydT6BECRA8oCbe7}}  A large indoor and outdoor exhibition facility."</comment>
-      <origin>193</origin>
+      <origin>201</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="246" sha1="eqszgnsr12kf3icymgfvkez1y2ospnn" xml:space="preserve">{{Place|type=Venue:Exhibitions|neighbourhood=Old East Village|website=https://www.westernfairdistrict.com/locations/western-fair-district-agriplex|googlemaps=https://goo.gl/maps/J8ydT6BECRA8oCbe7}}
@@ -1697,16 +1698,16 @@ A large indoor and outdoor exhibition facility.</text>
   <page>
     <title>Category:Venue:Exhibitions</title>
     <ns>14</ns>
-    <id>77</id>
+    <id>74</id>
     <revision>
-      <id>195</id>
-      <parentid>194</parentid>
+      <id>203</id>
+      <parentid>202</parentid>
       <timestamp>2022-09-06T22:52:50Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>195</origin>
+      <origin>203</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="52" sha1="e3r05plr8rz9i3f76zob2g9f9l5qjbr" xml:space="preserve">Venues for exhibitions and shows.
@@ -1717,16 +1718,16 @@ A large indoor and outdoor exhibition facility.</text>
   <page>
     <title>Category:Venue</title>
     <ns>14</ns>
-    <id>78</id>
+    <id>75</id>
     <revision>
-      <id>196</id>
+      <id>204</id>
       <timestamp>2022-09-06T22:53:25Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Venues for hosting events of all kinds."</comment>
-      <origin>196</origin>
+      <origin>204</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="39" sha1="rg4fn6sczwit0n7a6b74k5wpi7xbdrj" xml:space="preserve">Venues for hosting events of all kinds.</text>
@@ -1736,16 +1737,16 @@ A large indoor and outdoor exhibition facility.</text>
   <page>
     <title>Cobbletog Antique Market</title>
     <ns>0</ns>
-    <id>79</id>
+    <id>76</id>
     <revision>
-      <id>197</id>
+      <id>205</id>
       <timestamp>2022-09-07T01:14:38Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "{{Place|type=Store:Antique|neighbourhood=White Oaks|website=https://www.facebook.com/CobbletogAntiqueMarket|googlemaps=https://goo.gl/maps/j8yKbRAghqgQDV486}}  A large antique and vintage store with many dealers under one roof."</comment>
-      <origin>197</origin>
+      <origin>205</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="227" sha1="nqhz6zf51twyce7t8rihel0ohb6ic1d" xml:space="preserve">{{Place|type=Store:Antique|neighbourhood=White Oaks|website=https://www.facebook.com/CobbletogAntiqueMarket|googlemaps=https://goo.gl/maps/j8yKbRAghqgQDV486}}
@@ -1757,16 +1758,16 @@ A large antique and vintage store with many dealers under one roof.</text>
   <page>
     <title>Category:Neighbourhood:White Oaks</title>
     <ns>14</ns>
-    <id>80</id>
+    <id>77</id>
     <revision>
-      <id>198</id>
+      <id>206</id>
       <timestamp>2022-09-07T01:16:38Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "[https://www.neighbourgoodlondon.ca/neighbourhoods/white-oaks Whiteoaks] is the neighbourhood in south London that contains [https://www.whiteoaksmall.ca White Oaks Mall]."</comment>
-      <origin>198</origin>
+      <origin>206</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="171" sha1="m5qf8qzjz3bms3o4fgd6k0qlzn3wzyn" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/white-oaks Whiteoaks] is the neighbourhood in south London that contains [https://www.whiteoaksmall.ca White Oaks Mall].</text>
@@ -1776,16 +1777,16 @@ A large antique and vintage store with many dealers under one roof.</text>
   <page>
     <title>Memory Lane Antiques</title>
     <ns>0</ns>
-    <id>81</id>
+    <id>78</id>
     <revision>
-      <id>199</id>
+      <id>207</id>
       <timestamp>2022-09-07T01:22:02Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "{{Place|type=Store:Antique|neighbourhood=Hyde Park|website=https://memorylaneantiques.company.site|googlemaps=https://goo.gl/maps/2NzQu16315nbWYqq9}}  A large antique and vintage store with many vendors under one roof."</comment>
-      <origin>199</origin>
+      <origin>207</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="218" sha1="0s8wzmmvo6r0gava5jqycg0cjxrvksf" xml:space="preserve">{{Place|type=Store:Antique|neighbourhood=Hyde Park|website=https://memorylaneantiques.company.site|googlemaps=https://goo.gl/maps/2NzQu16315nbWYqq9}}
@@ -1797,16 +1798,16 @@ A large antique and vintage store with many vendors under one roof.</text>
   <page>
     <title>Kimchi House</title>
     <ns>0</ns>
-    <id>82</id>
+    <id>79</id>
     <revision>
-      <id>210</id>
+      <id>209</id>
       <parentid>208</parentid>
       <timestamp>2022-09-07T15:46:21Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>210</origin>
+      <origin>209</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="272" sha1="i0z8k03b9egd2nd22wtso42zq7fr8jo" xml:space="preserve">{{Place|type=Restaurant:Korean|neighbourhood=Proudfoot|googlemaps=https://goo.gl/maps/UZSSjoWnHSMtyR738}}
@@ -1819,16 +1820,16 @@ A small, privately-owned Korean restaurant which also offers some Japanese dishe
   <page>
     <title>Category:Restaurant:Korean</title>
     <ns>14</ns>
-    <id>83</id>
+    <id>80</id>
     <revision>
-      <id>209</id>
+      <id>210</id>
       <timestamp>2022-09-07T15:44:27Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Korean-style restaurants, which often also offer Japanese-style food.  [[category:Restaurant:Asian]]"</comment>
-      <origin>209</origin>
+      <origin>210</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="100" sha1="oqokv9zuh1630gysxotm8fta2rmtipf" xml:space="preserve">Korean-style restaurants, which often also offer Japanese-style food.
@@ -1840,13 +1841,13 @@ A small, privately-owned Korean restaurant which also offers some Japanese dishe
   <page>
     <title>Category:Restaurant:Japanese</title>
     <ns>14</ns>
-    <id>84</id>
+    <id>81</id>
     <revision>
       <id>211</id>
       <timestamp>2022-09-07T15:46:59Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Restaurants offering Japanese dishes. [[Category:Restaurant:Asian]]"</comment>
       <origin>211</origin>
@@ -1860,16 +1861,16 @@ A small, privately-owned Korean restaurant which also offers some Japanese dishe
   <page>
     <title>Plant Matter Kitchen</title>
     <ns>0</ns>
-    <id>85</id>
+    <id>82</id>
     <revision>
-      <id>243</id>
-      <parentid>241</parentid>
+      <id>215</id>
+      <parentid>214</parentid>
       <timestamp>2022-09-17T15:58:57Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>243</origin>
+      <origin>215</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="215" sha1="bqvjdn629lwwcltv0fk5c5x29ozgzd0" xml:space="preserve">{{Place|type=Restaurant:Vegan|neighbourhood=Old South|website=https://plantmatterkitchen.com/|googlemaps=https://g.page/PlantMatterKitchen?share}}
@@ -1881,16 +1882,16 @@ Local organic vegan restaurant offering Dine-In or Curbside Pickup.</text>
   <page>
     <title>La Noisette Bakery</title>
     <ns>0</ns>
-    <id>86</id>
+    <id>83</id>
     <revision>
-      <id>242</id>
-      <parentid>225</parentid>
+      <id>218</id>
+      <parentid>217</parentid>
       <timestamp>2022-09-17T15:57:27Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>242</origin>
+      <origin>218</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="182" sha1="mvd8lafawm77hv8pc3qtopntkk84r6v" xml:space="preserve">{{Place|type=Store:Bakery|neighbourhood=Carling Heights|website=http://www.lanoisettebakery.com/|googlemaps=https://goo.gl/maps/4nWB85hHSPrtPd8a6}}
@@ -1903,16 +1904,17 @@ Bakery
   <page>
     <title>Budweiser Gardens</title>
     <ns>0</ns>
-    <id>87</id>
+    <id>84</id>
     <revision>
-      <id>216</id>
-      <timestamp>2022-09-10T00:22:08Z</timestamp>
+      <id>265</id>
+      <parentid>264</parentid>
+      <timestamp>2022-12-21T20:46:31Z</timestamp>
       <contributor>
-        <username>AbaloneSandwich</username>
-        <id>4</id>
+        <username>Unsound</username>
+        <id>1</id>
       </contributor>
-      <comment>Created page with "Located at 99 Dundas Street East and originally opened as the John Labatt Centre in 2012. This is a sports-entertainment centre which is home of the London Knights and the London Lightning. The capacity is 9,100.   Budweiser Gardens hosts events such as concerts, performances, sport events, charity events, and more. [[Category:Venue]]"</comment>
-      <origin>216</origin>
+      <comment>Undo revision 264 by [[Special:Contributions/Unsound|Unsound]] ([[User talk:Unsound|talk]])</comment>
+      <origin>265</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="336" sha1="aavhnlqjjnllonjnja4p8esg4dh6g5j" xml:space="preserve">Located at 99 Dundas Street East and originally opened as the John Labatt Centre in 2012. This is a sports-entertainment centre which is home of the London Knights and the London Lightning. The capacity is 9,100. 
@@ -1925,16 +1927,16 @@ Budweiser Gardens hosts events such as concerts, performances, sport events, cha
   <page>
     <title>Laurie's Cookies</title>
     <ns>0</ns>
-    <id>88</id>
+    <id>85</id>
     <revision>
-      <id>240</id>
-      <parentid>226</parentid>
+      <id>222</id>
+      <parentid>221</parentid>
       <timestamp>2022-09-17T15:51:30Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>240</origin>
+      <origin>222</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="260" sha1="6h27e4q1tx2d78j69064b6sjin5uop2" xml:space="preserve">{{Place|type=Store:Bakery|neighbourhood=Carling Heights|website=http://www.lauriescookies.ca/|googlemaps=https://g.page/Lauriescookies?share}}
@@ -1946,16 +1948,16 @@ Cookie shop selling decorated sugar cookies, macarons, stuffed cookies and cooki
   <page>
     <title>Apple Land Station</title>
     <ns>0</ns>
-    <id>89</id>
+    <id>86</id>
     <revision>
-      <id>228</id>
-      <parentid>219</parentid>
+      <id>224</id>
+      <parentid>223</parentid>
       <timestamp>2022-09-11T15:41:20Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>228</origin>
+      <origin>224</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="276" sha1="2vj59m81dqxfj308gxwnuq3ws6ltiah" xml:space="preserve">{{Place|type=Farm|neighbourhood=Surrounds|website=https://www.applelandstation.com|googlemaps=https://goo.gl/maps/BnHaF9LvAc2SvsjK8}}
@@ -1970,16 +1972,16 @@ Offers pick-your-own apples, a bakery and a farm store.
   <page>
     <title>Category:Farm</title>
     <ns>14</ns>
-    <id>90</id>
+    <id>87</id>
     <revision>
-      <id>220</id>
+      <id>225</id>
       <timestamp>2022-09-11T15:20:28Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Farms or orchards that offer public activities."</comment>
-      <origin>220</origin>
+      <origin>225</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="47" sha1="i0swr6f9x83yig7mgwx35v2z9mnsn9y" xml:space="preserve">Farms or orchards that offer public activities.</text>
@@ -1989,16 +1991,16 @@ Offers pick-your-own apples, a bakery and a farm store.
   <page>
     <title>Category:Neighbourhood:Surrounds</title>
     <ns>14</ns>
-    <id>91</id>
+    <id>88</id>
     <revision>
-      <id>221</id>
+      <id>226</id>
       <timestamp>2022-09-11T15:21:01Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Not a neighbourhood of London but in the surrounding area."</comment>
-      <origin>221</origin>
+      <origin>226</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="58" sha1="gam132t2u4crpq7ddwo8r6oxwi8acrw" xml:space="preserve">Not a neighbourhood of London but in the surrounding area.</text>
@@ -2008,16 +2010,16 @@ Offers pick-your-own apples, a bakery and a farm store.
   <page>
     <title>Category:Store:Bakery</title>
     <ns>14</ns>
-    <id>92</id>
+    <id>89</id>
     <revision>
-      <id>250</id>
-      <parentid>222</parentid>
+      <id>228</id>
+      <parentid>227</parentid>
       <timestamp>2022-09-19T14:03:11Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>250</origin>
+      <origin>228</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="53" sha1="qpisogghc39d9qdnf5ltx9zrwew4esv" xml:space="preserve">Bakeries, patisseries and similar.
@@ -2028,16 +2030,16 @@ Offers pick-your-own apples, a bakery and a farm store.
   <page>
     <title>Category:Activity:Fruit Picking</title>
     <ns>14</ns>
-    <id>93</id>
+    <id>90</id>
     <revision>
-      <id>223</id>
+      <id>229</id>
       <timestamp>2022-09-11T15:22:09Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Places where you can pick ad purchase your own fruit."</comment>
-      <origin>223</origin>
+      <origin>229</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="53" sha1="srqm5ujumasxi6wqxw3jdxxp68x4eif" xml:space="preserve">Places where you can pick ad purchase your own fruit.</text>
@@ -2047,17 +2049,17 @@ Offers pick-your-own apples, a bakery and a farm store.
   <page>
     <title>Category:Bakery</title>
     <ns>14</ns>
-    <id>94</id>
+    <id>91</id>
     <redirect title="Store:Bakery" />
     <revision>
-      <id>224</id>
+      <id>230</id>
       <timestamp>2022-09-11T15:25:20Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Redirected page to [[Store:Bakery]]</comment>
-      <origin>224</origin>
+      <origin>230</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="26" sha1="isxy2ui31cee7kgdt4jkfzyk2jw31as" xml:space="preserve">#REDIRECT [[Store:Bakery]]</text>
@@ -2067,16 +2069,16 @@ Offers pick-your-own apples, a bakery and a farm store.
   <page>
     <title>Clovermead</title>
     <ns>0</ns>
-    <id>95</id>
+    <id>92</id>
     <revision>
-      <id>227</id>
+      <id>231</id>
       <timestamp>2022-09-11T15:40:38Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "{{Place|type=Farm|neighbourhood=Surrounds|website=https://clovermead.com|googlemaps=https://g.page/clovermead?share}}  An adventure farm and store focused on honey. Features a splashpad, corn maze, pumpkin picking, and farm animal petting zoo. [[Category:Store:Farm]] [[Category:Activity:Kids]]"</comment>
-      <origin>227</origin>
+      <origin>231</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="294" sha1="o978x2h7c8l0zkqi4o1wmg02e4p9a59" xml:space="preserve">{{Place|type=Farm|neighbourhood=Surrounds|website=https://clovermead.com|googlemaps=https://g.page/clovermead?share}}
@@ -2090,16 +2092,16 @@ An adventure farm and store focused on honey. Features a splashpad, corn maze, p
   <page>
     <title>Category:Store:Farm</title>
     <ns>14</ns>
-    <id>96</id>
+    <id>93</id>
     <revision>
-      <id>229</id>
+      <id>232</id>
       <timestamp>2022-09-11T15:42:09Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Stores attached to or related to farms."</comment>
-      <origin>229</origin>
+      <origin>232</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="39" sha1="7op5ffer0yto6zl0hwthf0u7ve2vi5v" xml:space="preserve">Stores attached to or related to farms.</text>
@@ -2109,16 +2111,16 @@ An adventure farm and store focused on honey. Features a splashpad, corn maze, p
   <page>
     <title>Category:Activity:Kids</title>
     <ns>14</ns>
-    <id>97</id>
+    <id>94</id>
     <revision>
-      <id>230</id>
+      <id>233</id>
       <timestamp>2022-09-11T15:43:40Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Activities primarily targeted at kids of parent with kids, such as petting zoos, funfares, or playgrounds."</comment>
-      <origin>230</origin>
+      <origin>233</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="106" sha1="3wf3mzvo7skb99kdlawl05mvgj73ngm" xml:space="preserve">Activities primarily targeted at kids of parent with kids, such as petting zoos, funfares, or playgrounds.</text>
@@ -2128,16 +2130,16 @@ An adventure farm and store focused on honey. Features a splashpad, corn maze, p
   <page>
     <title>Vaka Craft Chocolate</title>
     <ns>0</ns>
-    <id>98</id>
+    <id>95</id>
     <revision>
-      <id>231</id>
+      <id>234</id>
       <timestamp>2022-09-11T23:38:46Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "{{Place|type=Store:Candy|neighbourhood=North Talbot|website=https://vakachocolate.com|googlemaps=https://goo.gl/maps/ygRbXedfwZAJduoy7}}  Offers hand-craft chocolate and non-dairy vegan ice cream. [[Category:Store:Vegan]]"</comment>
-      <origin>231</origin>
+      <origin>234</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="221" sha1="f1jmtnni59lr7e2d2908pcr9nl8cgsq" xml:space="preserve">{{Place|type=Store:Candy|neighbourhood=North Talbot|website=https://vakachocolate.com|googlemaps=https://goo.gl/maps/ygRbXedfwZAJduoy7}}
@@ -2150,16 +2152,16 @@ Offers hand-craft chocolate and non-dairy vegan ice cream.
   <page>
     <title>Category:Store:Candy</title>
     <ns>14</ns>
-    <id>99</id>
+    <id>96</id>
     <revision>
-      <id>251</id>
-      <parentid>232</parentid>
+      <id>236</id>
+      <parentid>235</parentid>
       <timestamp>2022-09-19T14:03:44Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>251</origin>
+      <origin>236</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="59" sha1="9fm50t9id2ilj15f2p77jbct05ylnv2" xml:space="preserve">Stores that specialise in confectionery.
@@ -2170,16 +2172,16 @@ Offers hand-craft chocolate and non-dairy vegan ice cream.
   <page>
     <title>Category:Store:Vegan</title>
     <ns>14</ns>
-    <id>100</id>
+    <id>97</id>
     <revision>
-      <id>233</id>
+      <id>237</id>
       <timestamp>2022-09-11T23:41:05Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Stores that offer at least some vegan products."</comment>
-      <origin>233</origin>
+      <origin>237</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="47" sha1="7cckr51xl8o75f9zpbnlqogqv5swcpn" xml:space="preserve">Stores that offer at least some vegan products.</text>
@@ -2189,17 +2191,17 @@ Offers hand-craft chocolate and non-dairy vegan ice cream.
   <page>
     <title>Junction Climbing Centre</title>
     <ns>0</ns>
-    <id>101</id>
+    <id>98</id>
     <revision>
-      <id>236</id>
-      <parentid>235</parentid>
+      <id>240</id>
+      <parentid>239</parentid>
       <timestamp>2022-09-13T01:05:22Z</timestamp>
       <contributor>
-        <username>ClurryMcFury</username>
-        <id>6</id>
+        <username>imported&gt;ClurryMcFury</username>
+        <id>0</id>
       </contributor>
       <comment>Fixing GMaps link and updating neighbourhood</comment>
-      <origin>236</origin>
+      <origin>240</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="588" sha1="7qrtrq4wdjfj35cm9758w75twc1x35q" xml:space="preserve">{{Place|type=Gym|neighbourhood=Old East Village|website=https://www.junctionclimbing.com/|googlemaps=https://www.google.com/maps/dir//junction+climbing+centre/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x882eed8594be67e1:0x7ed30c0e817c5544?sa=X&amp;ved=2ahUKEwiRwbOxyZD6AhVzhIkEHUxJCX4Q9Rd6BAhjEAU}}
@@ -2211,16 +2213,16 @@ Junction Climbing Centre is London's indoor rock climbing gym located in Old Eas
   <page>
     <title>Category:Gym</title>
     <ns>14</ns>
-    <id>102</id>
+    <id>99</id>
     <revision>
-      <id>237</id>
+      <id>241</id>
       <timestamp>2022-09-13T01:06:18Z</timestamp>
       <contributor>
-        <username>ClurryMcFury</username>
-        <id>6</id>
+        <username>imported&gt;ClurryMcFury</username>
+        <id>0</id>
       </contributor>
       <comment>Adding description and creating page</comment>
-      <origin>237</origin>
+      <origin>241</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="17" sha1="4x1tau5glfn5kkqdn50pg13bo7ovz1o" xml:space="preserve">All types of gym.</text>
@@ -2230,16 +2232,16 @@ Junction Climbing Centre is London's indoor rock climbing gym located in Old Eas
   <page>
     <title>J2 Bouldering</title>
     <ns>0</ns>
-    <id>103</id>
+    <id>100</id>
     <revision>
-      <id>238</id>
+      <id>242</id>
       <timestamp>2022-09-13T01:11:03Z</timestamp>
       <contributor>
-        <username>ClurryMcFury</username>
-        <id>6</id>
+        <username>imported&gt;ClurryMcFury</username>
+        <id>0</id>
       </contributor>
       <comment>Creating page, adding description</comment>
-      <origin>238</origin>
+      <origin>242</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="449" sha1="8ig0ag22c55if5mfpqkjsxankx8ohvl" xml:space="preserve">J2 Bouldering is Junction Climbing Centre's second gym. J2 Bouldering is a bouldering-only gym. J2 Bouldering is located in Hyde Park at 1828 Blue Heron Drive Unit 1 London, ON N6H 0B7.
@@ -2251,16 +2253,16 @@ Junction Climbing Centre is London's indoor rock climbing gym located in Old Eas
   <page>
     <title>Kustermans Adventure Farm</title>
     <ns>0</ns>
-    <id>104</id>
+    <id>101</id>
     <revision>
-      <id>239</id>
+      <id>243</id>
       <timestamp>2022-09-13T01:20:56Z</timestamp>
       <contributor>
-        <username>ClurryMcFury</username>
-        <id>6</id>
+        <username>imported&gt;ClurryMcFury</username>
+        <id>0</id>
       </contributor>
       <comment>Created page and added description</comment>
-      <origin>239</origin>
+      <origin>243</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="616" sha1="3rx5a7td7234cno4anyr5sna3kewcct" xml:space="preserve">{{Place|type=Farm|neighbourhood=Surrounds|website=https://www.kustermans.ca/|googlemaps=https://www.google.com/maps/dir//kustermans/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x882efe097403f101:0x25649637239562d6?sa=X&amp;ved=2ahUKEwjuu7LQy5D6AhU-pIkEHWYnBu4Q9Rd6BAhYEAU}}
@@ -2272,16 +2274,16 @@ Kustermans is a family farm featuring a variety of activities. During the summer
   <page>
     <title>Category:Restaurant:Vegan</title>
     <ns>14</ns>
-    <id>105</id>
+    <id>102</id>
     <revision>
-      <id>249</id>
+      <id>245</id>
       <parentid>244</parentid>
       <timestamp>2022-09-19T14:02:26Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>249</origin>
+      <origin>245</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="66" sha1="k9gxv6fcj489ijqeaxra97hgm3baxsf" xml:space="preserve">Restaurants offering primarily vegan food.
@@ -2292,16 +2294,16 @@ Kustermans is a family farm featuring a variety of activities. During the summer
   <page>
     <title>Category:Neighbourhood:Old South</title>
     <ns>14</ns>
-    <id>106</id>
+    <id>103</id>
     <revision>
-      <id>248</id>
-      <parentid>247</parentid>
+      <id>249</id>
+      <parentid>248</parentid>
       <timestamp>2022-09-17T16:04:11Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>248</origin>
+      <origin>249</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="160" sha1="oqfqbfmttm2m63o2ewye2qc39ouf4rs" xml:space="preserve">[https://www.neighbourgoodlondon.ca/neighbourhoods/old-south Old South] is a historic neighbourhood just south of [[:Category:Neighbourhood:Downtown|Downtown]].</text>
@@ -2311,16 +2313,16 @@ Kustermans is a family farm featuring a variety of activities. During the summer
   <page>
     <title>Brown &amp; Dickson</title>
     <ns>0</ns>
-    <id>107</id>
+    <id>104</id>
     <revision>
-      <id>256</id>
-      <parentid>254</parentid>
+      <id>251</id>
+      <parentid>250</parentid>
       <timestamp>2022-11-02T00:13:52Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>256</origin>
+      <origin>251</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="198" sha1="6lsno5j9xhr09v7krtzq2e6axrg4dmh" xml:space="preserve">{{Place|type=Store:Books|neighbourhood=Downtown|website=https://brownanddickson.com|googlemaps=https://g.page/brownanddickson?share}}
@@ -2333,16 +2335,16 @@ Antiquarian booksellers and writers.
   <page>
     <title>Category:Store:Books</title>
     <ns>14</ns>
-    <id>108</id>
+    <id>105</id>
     <revision>
-      <id>255</id>
+      <id>252</id>
       <timestamp>2022-11-02T00:13:19Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Independent bookstores and sellers. [[Category:Store]]"</comment>
-      <origin>255</origin>
+      <origin>252</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="54" sha1="o5nhyit7vofqqxpiv38x1j5vwb7wqv7" xml:space="preserve">Independent bookstores and sellers.
@@ -2353,16 +2355,16 @@ Antiquarian booksellers and writers.
   <page>
     <title>Über Cool Stuff</title>
     <ns>0</ns>
-    <id>109</id>
+    <id>106</id>
     <revision>
-      <id>257</id>
+      <id>253</id>
       <timestamp>2022-11-02T00:18:36Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "{{Place|type=Store:Gifts|neighbourhood=Downtown|website=http://www.ubercoolstuff.com/|googlemaps=https://g.page/UberCoolStuff?share}}  A long, narrow store selling all sorts of geek-related items. [[Category:Store:Specialty]] [[Category:Store:Collectibles]]"</comment>
-      <origin>257</origin>
+      <origin>253</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="257" sha1="0oxq4zlikpmb7nk30ajqnwj5ruifjwx" xml:space="preserve">{{Place|type=Store:Gifts|neighbourhood=Downtown|website=http://www.ubercoolstuff.com/|googlemaps=https://g.page/UberCoolStuff?share}}
@@ -2376,16 +2378,16 @@ A long, narrow store selling all sorts of geek-related items.
   <page>
     <title>Category:Store:Gifts</title>
     <ns>14</ns>
-    <id>110</id>
+    <id>107</id>
     <revision>
-      <id>258</id>
+      <id>254</id>
       <timestamp>2022-11-02T00:19:22Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Stores selling a lot of items that might be bought as gifts. [[Category:Store]]"</comment>
-      <origin>258</origin>
+      <origin>254</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="79" sha1="aabzc9q8y83x3ivif8gstk8zhoiiswm" xml:space="preserve">Stores selling a lot of items that might be bought as gifts.
@@ -2396,16 +2398,16 @@ A long, narrow store selling all sorts of geek-related items.
   <page>
     <title>Category:Store:Specialty</title>
     <ns>14</ns>
-    <id>111</id>
+    <id>108</id>
     <revision>
-      <id>259</id>
+      <id>255</id>
       <timestamp>2022-11-02T00:20:02Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Stores offering some sort of speciality goods. [[Category:Store]]"</comment>
-      <origin>259</origin>
+      <origin>255</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="65" sha1="tcbvagwlys22p1mo9tkrqprkjiwm7hr" xml:space="preserve">Stores offering some sort of speciality goods.
@@ -2416,16 +2418,16 @@ A long, narrow store selling all sorts of geek-related items.
   <page>
     <title>Category:Store:Collectibles</title>
     <ns>14</ns>
-    <id>112</id>
+    <id>109</id>
     <revision>
-      <id>260</id>
+      <id>256</id>
       <timestamp>2022-11-02T00:20:53Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Stores selling some items that are collectible. [[Category:Store]]"</comment>
-      <origin>260</origin>
+      <origin>256</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="66" sha1="jxzhby0li14o9fjm96v9g2pi2wqez76" xml:space="preserve">Stores selling some items that are collectible.
@@ -2436,16 +2438,16 @@ A long, narrow store selling all sorts of geek-related items.
   <page>
     <title>Cherry's Desserts</title>
     <ns>0</ns>
-    <id>113</id>
+    <id>110</id>
     <revision>
-      <id>261</id>
+      <id>257</id>
       <timestamp>2022-11-02T00:25:07Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Created page with "Eat only desserts!  {{Place|type=Store:Desserts|neighbourhood=Downtown|website=http://cherrysdesserts.ca/|googlemaps=https://goo.gl/maps/NTuzLnTR6ErsCp137}} [[Category:Restaurant:Desserts]]"</comment>
-      <origin>261</origin>
+      <origin>257</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="189" sha1="mk4gruj36qhyq7ag3x5m3scwx88tucf" xml:space="preserve">Eat only desserts!
@@ -2458,16 +2460,16 @@ A long, narrow store selling all sorts of geek-related items.
   <page>
     <title>Category:Restaurant:Desserts</title>
     <ns>14</ns>
-    <id>114</id>
+    <id>111</id>
     <revision>
-      <id>266</id>
-      <parentid>265</parentid>
+      <id>261</id>
+      <parentid>260</parentid>
       <timestamp>2022-11-02T00:27:08Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
-      <origin>266</origin>
+      <origin>261</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="90" sha1="efq9rc1c14ddxlflhjpja2c99ujf2zf" xml:space="preserve">Stores/restaurants offering primarily desserts.
@@ -2479,17 +2481,17 @@ A long, narrow store selling all sorts of geek-related items.
   <page>
     <title>Category:Store:Desserts</title>
     <ns>14</ns>
-    <id>115</id>
+    <id>112</id>
     <redirect title="Category:Restaurant:Desserts" />
     <revision>
-      <id>264</id>
+      <id>262</id>
       <timestamp>2022-11-02T00:26:11Z</timestamp>
       <contributor>
-        <username>Unsound</username>
-        <id>1</id>
+        <username>imported&gt;Unsound</username>
+        <id>0</id>
       </contributor>
       <comment>Unsound moved page [[Category:Store:Desserts]] to [[Category:Restaurant:Desserts]]</comment>
-      <origin>264</origin>
+      <origin>262</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="43" sha1="4magxhvn3n1mt25g9j91yih8312lm63" xml:space="preserve">#REDIRECT [[:Category:Restaurant:Desserts]]</text>
