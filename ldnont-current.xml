@@ -3,7 +3,7 @@
     <sitename>London Ontario City Wiki</sitename>
     <dbname>ldnont</dbname>
     <base>https://ldnont.info/wiki/Main_Page</base>
-    <generator>MediaWiki 1.39.0</generator>
+    <generator>MediaWiki 1.39.1</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">Media</namespace>
@@ -31,38 +31,20 @@
     <ns>0</ns>
     <id>1</id>
     <revision>
-      <id>267</id>
-      <parentid>266</parentid>
-      <timestamp>2022-12-21T20:54:01Z</timestamp>
+      <id>268</id>
+      <parentid>267</parentid>
+      <timestamp>2023-01-01T20:49:09Z</timestamp>
       <contributor>
         <username>Unsound</username>
         <id>1</id>
       </contributor>
-      <comment>Undo revision 1 by [[Special:Contributions/MediaWiki default|MediaWiki default]] ([[User talk:MediaWiki default|talk]])</comment>
-      <origin>267</origin>
+      <origin>268</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1071" sha1="ocl9aypxh4hf6uwys92hwbyyiowrf12" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
-
-===Recently updated===
-
-&lt;div style="-webkit-column-count:3;column-count:3;"&gt;
-{{#dpl:notnamespace=Category|notnamespace=Mediawiki|notnamespace=Template|nottitlematch=Sandbox|columns=3|count=12|ordermethod=lastedit|order=descending}}
-&lt;/div&gt;
-
-===Browse by main category===
-
-&lt;div style="-webkit-column-count:3;column-count:3;"&gt;
-{{#dpl:namespace=Category|nottitlematch=%:%|columns=3|replaceintitle=/^Category:/,}}
-&lt;/div&gt;
-
-===Browse by neighborhood===
-&lt;div style="-webkit-column-count:3;column-count:3;"&gt;
-{{#dpl:titlematch=Neighbourhood:%|columns=3|namespace=Category|replaceintitle=/^Category:Neighbourhood:/,}}
-&lt;/div&gt;Or, browse the [[Special:AllPages|list of all pages]].
+      <text bytes="402" sha1="ps0aw00h0wdtn0c37xtthcl8395dpwd" xml:space="preserve">This site attempts to describe interesting things in and around the city of [[wikipedia:London,_Ontario|London, Ontario]] and currently contains {{NUMBEROFPAGES}} pages. If you have something to contribute have a look at the [[Contribution Guidelines]] and [[Requesting an Account|request an account]].
 
 This site is a community effort and is not affiliated with the [https://london.ca City of London].</text>
-      <sha1>ocl9aypxh4hf6uwys92hwbyyiowrf12</sha1>
+      <sha1>ps0aw00h0wdtn0c37xtthcl8395dpwd</sha1>
     </revision>
   </page>
   <page>
